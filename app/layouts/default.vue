@@ -22,6 +22,15 @@ import { BookOpen } from 'lucide-vue-next';
             </div>
 
           </Footer>
-        </div>
+          
+          <div class="flex flex-row items-center justify-center mt-4 gap-6">
+            <NuxtLink to="/impressum" class="text-green-700 font-serif">
+              Impressum
+            </NuxtLink>
+            <NuxtLink to="/datenschutz" class="text-green-700 font-serif">
+              Datenschutz
+            </NuxtLink>
+          </div>
+      </div>
 
 </template>

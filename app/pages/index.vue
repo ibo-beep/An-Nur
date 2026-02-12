@@ -13,7 +13,10 @@ const duas = [
   { name: 'Dua Kumail', id: 'kumail' },
   { name: 'Dua Al Iftitah', id: 'iftitah' },
   { name: 'Ziyarat Ashura', id: 'ashura' },
-  {name: 'Dua Ya Dhal', id: 'ya_dhal'   }
+  {name: 'Dua Ya Dhal', id: 'ya_dhal'   },
+  {name: 'Dua Jawshan al Kabir', id: 'jawshan'},
+  {name: 'Dua Ahad', id: 'ahad'},
+  {name: 'Ziyarat Warith', id: 'warith'},
 ]  
 
 // Filtert die Duas basierend auf der Eingabe
