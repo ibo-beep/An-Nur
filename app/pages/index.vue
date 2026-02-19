@@ -18,6 +18,13 @@ const duas = [
   {name: 'Dua Ahad', id: 'ahad'},
   {name: 'Ziyarat Warith', id: 'warith'},
   {name: 'Dua abu Hamza al Thumali', id: 'abu_hamza'},
+  {name: 'Dua An Taj´ala', id: 'an_taj´ala'},
+  {name: 'Dua Hadha Shahr Ramadan', id: 'hadha_shahr'},
+  {name: 'Ziyarat Aal e Yaseen', id: 'ziyarat_ale'}, 
+  {name: 'Ziyarat Imam al Hussain as. an Qadr', id: 'ziyarat_hussain'},
+  {name: 'Ziyarat Imam Ali as. an 21. Ramadan', id: 'ziyarat_ali'},
+  {name: 'Dua Allahumma inni amsaytu', id: 'allahumma'},
+  {name: 'Dua Imam Al Sajjad as.', id: 'dua_sajjad'},
 ]  
 
 // Filtert die Duas basierend auf der Eingabe
