@@ -7,7 +7,9 @@ import { BookOpen } from 'lucide-vue-next';
 <nav class="shadow-md bg-[#F8F9F8] p-6 h-20 w-screen">
       <div class=" flex flex-row items-center justify-between">
         <NuxtLink to="/" class="text-green-700 flex flex-row items-center text-2xl font-serif font-bold"> <BookOpen/> An-Nur</NuxtLink>
-        <NuxtLink to="/calendar" class="font-serif ps-46 text-xl">Calendar</NuxtLink>
+        <NuxtLink to="/laylatulqadr" class ="font-serif ps-46 text-sm hover:text-green-500">Laylatul Qadr</NuxtLink>
+        <NuxtLink to="/calendar" class="font-serif ps-46 text-xl hover:text-green-500">Calendar</NuxtLink>
+        
       </div>
    </nav>
 

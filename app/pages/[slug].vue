@@ -25,12 +25,15 @@ const allDuas: Record<string, any> = {
   'ziyarat_ali': {name: 'Ziyarat Imam Ali an 21. Ramadan', data: ziyarat_aliContent},
   'allahumma': {name: 'Dua Allahumma inni amsaytu', data: allahummaContent},
   'dua_sajjad': {name: 'Dua Imam Al Sajjad as.', data: dua_sajjadContent},
+  'al_ankabut': {name: 'Sure Al-Ankabut', data: al_ankabutContent},
+  'al_room': {name: 'Sure Al-Rum', data: al_roomContent},
+  'ad_dukhan': {name: 'Sure Ad-Dukhan', data: ad_dukhanContent},
+  'qadr': {name: 'Sure Al-Qadr', data: qadrContent},
+  'bittgebet_koran': {name: 'Das Bittgebet des Quran', data: bittgebet_koranContent},
+  'ali_al_akbar': {name: 'Ziyarat Ali Al Akbar', data: ali_al_akbarContent},
+  'shohadaa': {name: 'Ziyarat Shohadaa Karbala', data: shohadaaContent},
+  'abal_fadl': {name: 'Ziyarat Abu al Fadl al Abbas', data: abal_fadlContent},
   
-  
-  
-  
-  
-  // Neue Duas einfach hier eine Zeile hinzufügen
 }
 
 const currentDua = computed(() => allDuas[slug] || allDuas['ahad'])
