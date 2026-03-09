@@ -10,6 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "adhan": "^4.4.3",
     "google-translate-api-next": "^0.1.0",
     "lucide-vue-next": "^0.562.0",
     "nuxt": "^4.2.2",

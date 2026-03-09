@@ -15,7 +15,9 @@
                 <NuxtLink to="/ali_al_akbar" class="text-green-700 font-bold text-xl hover:underline">Ziyarat Ali Al Akbar</NuxtLink>
                 <NuxtLink to="/shohadaa" class="text-green-700 font-bold text-xl hover:underline">Ziyarat Shohadaa Karbala</NuxtLink>
                 <NuxtLink to="/abal_fadl" class="text-green-700 font-bold text-xl hover:underline">Ziyarat Abu al Fadl al Abbas</NuxtLink>
-                <NuxtLink to="ziyarat_hussain" class="text-green-700 font-bold text-xl hover:underline">Ziyarat Imam Al Hussain as.</NuxtLink>
+                <NuxtLink to="/ziyarat_hussain" class="text-green-700 font-bold text-xl hover:underline">Ziyarat Imam Al Hussain as.</NuxtLink>
+                <NuxtLink to="/ashura" class="text-green-700 font-bold text-xl hover:underline">Ziyarat Ashura</NuxtLink>
+                <NuxtLink to="/ziyarat_ali" class="text-green-700 font-bold text-xl hover:underline">Ziyarat Imam Ali as.</NuxtLink>
             
             <h1 class="text-2xl text-gray-500 font-bold py-4">Rezitiere folgende Duas:</h1>
                 <NuxtLink to="/iftitah" class="text-green-700 font-bold text-xl hover:underline">Dua Al Iftitah</NuxtLink>
@@ -23,5 +25,7 @@
                 <NuxtLink to="/dua_sajjad" class="text-green-700 font-bold text-xl hover:underline">Dua Imam Al Sajjad as.</NuxtLink>
                 <NuxtLink to="/allahumma" class="text-green-700 font-bold text-xl hover:underline">Dua Allahumma inni amsaytu</NuxtLink>
                 <NuxtLink to="/abu_hamza" class="text-green-700 font-bold text-xl hover:underline">Dua Abu Hamza Thumali</NuxtLink>
+                <NuxtLink to="/munajat_taibeen" class="text-green-700 font-bold text-xl hover:underline">Munajat al-Taibeen</NuxtLink>
+                
         </div>
 </template>
