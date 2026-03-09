@@ -6,7 +6,7 @@
       :key="catIndex"
       class="bg-white p-1 rounded-lg shadow-sm border border-gray-200 w-1/3 flex-shrink-0 flex flex-col"
     >
-      <h2 class="text-[10px] md:text-sm font-bold text-gray-800 mb-1 border-b pb-1 border-green-300 text-center truncate">
+      <h2 class="text-[20px] md:text-xl font-bold text-gray-800 mb-1 border-b pb-1 border-green-300 text-center truncate">
         {{ category.name }}
       </h2>
 
@@ -15,7 +15,7 @@
           v-for="(item, itemIndex) in category.links" 
           :key="itemIndex"
           :to="item.url"
-          class="block p-1.5 bg-gray-50 hover:bg-gray-200 transition-colors rounded border-l-2 border-green-600 text-gray-700 text-[9px] md:text-xs font-bold truncate"
+          class="block p-1.5 bg-gray-50 hover:bg-gray-200 transition-colors rounded border-l-2 border-green-600 text-gray-700 text-[16px] md:text-sm font-bold truncate"
         >
           {{ item.title }}
         </NuxtLink>
