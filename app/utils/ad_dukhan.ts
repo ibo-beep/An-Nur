@@ -122,13 +122,52 @@ export const ad_dukhanContent = {
 
 `,
 
+'Deutsch': `Bismillaahir Rahmaanir Raheem
+*1
+Ha-Mim
+*2
+Bei dem deutlichen Buch!
+*3
+Wir haben es wahrlich in einer gesegneten Nacht herabgesandt - Wir haben ja (die Menschen) immer wieder gewarnt -,
+*4
+in der jede weise Angelegenheit einzeln entschieden wird
+*5
+als eine Angelegenheit von Uns aus - Wir haben ja immer wieder (Warner) gesandt -,
+*6
+als eine Barmherzigkeit von deinem Herrn - gewiß, Er ist der Allhörende und Allwissende -,
+*7
+dem Herrn der Himmel und der Erde und dessen, was dazwischen ist, wenn ihr überzeugt seid.
+*8
+Es gibt keinen Gott außer Ihm. Er macht lebendig und läßt sterben, (Er), euer Herr und der Herr eurer Vorväter.
+*9
+Aber nein! Sie sind im Zweifel und treiben ihr Spiel.
+*10
+So erwarte den Tag, an dem der Himmel deutlichen Rauch hervorbringt,
+*11
+der die Menschen überdecken wird. Das ist eine schmerzhafte Strafe.
+*12
+"Unser Herr, nimm die Strafe von uns hinweg; wir sind (jetzt) ja gläubig."
+*13
+Wie soll ihnen (jetzt) die Selbstbesinnung nützen, wo bereits ein deutlicher Gesandter zu ihnen kam,
+*14
+sie sich hierauf aber von ihm abkehrten und sagten: "Einer, dem vorgesagt wird, ein Besessener"?
+*15
+Wir werden die Strafe ein wenig hinwegnehmen. Ihr werdet sicher zurückkehren.
+*16
+Am Tag, da Wir mit der größten Gewalt zupacken werden, gewiß, da werden Wir Vergeltung üben.
+*17
+Und Wir setzten bereits vor ihnen das Volk Fir'auns der Versuchung aus. Zu ihnen kam ein edler Gesandter:
+*18
+"Übergebt mir Allahs Diener. Gewiß, ich bin für euch ein vertrauenswürdiger Gesandter.
+`,
+
 'Transliteration': ` Bismillaahir Rahmaanir Raheem 
 *1
-Haa Meeem
+Hameem
 *2
 Wal Kitaabil Mubeen
 *3
-Innaaa anzalnaahu fee lailatim mubaarakah; innaa kunnaa munzireen
+Innaa anzalnaahu fee lailatim mubaarakah; innaa kunnaa munzireen
 *4
 Feehaa yufraqu kullu amrin hakeem
 *5
@@ -138,7 +177,7 @@ Rahmatam mir rabbik; innahoo Huwas Samee'ul 'Aleem
 *7
 Rabbis samaawaati wal ardi wa maa bainahumaa; in kuntum mooqineen
 *8
-Laaa ilaaha illaa Huwa yuhyee  wa yumeetu Rabbukum wa Rabbu aabaaa'ikumul awwaleen
+Laaa ilaaha illaa Huwa yuhyee wa yumeetu Rabbukum wa Rabbu aabaaa'ikumul awwaleen
 *9
 Bal hum fee shakkiny yal'aboon
 *10
@@ -182,7 +221,7 @@ Kazaalika wa awrasnaahaa qawman aakhareen
 *29
 Famaa bakat 'alaihimus samaaa'u wal ardu wa maa kaanoo munzareen
 *30
-Wa laqad najjainaa Baneee Israaa'eela minal'azaabil muheen
+Wa laqad najjainaa Baneee Israaa'eela minal 'azaabil muheen
 *31
 Min Fir'awn; innahoo kaana 'aaliyam minal musrifeen
 *32
@@ -192,9 +231,9 @@ Wa aatainaahum minal aayaati maa feehi balaaa'um mubeen
 *34
 Inna haaa'ulaaa'i la yaqooloon
 *35
-In hiya illaa mawtatunal oolaa wa maa nahnu bimun shareen
+In hiya illaa mawtatunal oolaa wa maa nahnu bimunshareen
 *36
-Fa'too bi aabaaa'inaaa inkuntum saadiqeen
+Fa'too bi aabaaa'inaaa in kuntum saadiqeen
 *37
 Ahum khayrun am qawmu Tubba'inw wallazeena min qablihim; ahlaknaahum innahum kaanoo mujrimeen
 *38
@@ -206,7 +245,7 @@ Inna yawmal fasli meeqaatuhum ajma'een
 *41
 Yawma laa yughnee mawlan 'am mawlan shai'anw wa laa hum yunsaroon
 *42
-Illaa mar rahimal laah' innahoo huwal 'azeezur raheem
+Illaa mar rahimal laah; innahoo Huwal 'azeezur raheem
 *43
 Inna shajarataz zaqqoom
 *44
@@ -240,8 +279,7 @@ Fadlam mir rabbik; zaalika huwal fawzul 'azeem
 *58
 Fa innamaa yassarnaahu bilisaanika la'allahum yatazakkaroon
 *59
-Fartaqib innahum murta qiboon
-`
+Fartaqib innahum murtaqiboon`
 };
 
 

@@ -140,70 +140,141 @@ export const al_ankabutContent = {
 وَٱلَّذِينَ جَٰهَدُوا۟ فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَإِنَّ ٱللَّهَ لَمَعَ ٱلْمُحْسِنِينَ
 `,
 
-
-
+'Deutsch': `*1
+Alif-Lam-Mim.
+*2
+Meinen die Menschen, daß sie in Ruhe gelassen werden, (nur) weil sie sagen: "Wir glauben", ohne daß sie geprüft werden?
+*3
+Wir haben bereits diejenigen vor ihnen geprüft. Allah wird ganz gewiß diejenigen kennen, die die Wahrheit sprechen, und Er wird ganz gewiß die Lügner kennen.
+*4
+Oder meinen diejenigen, die böse Taten begehen, daß sie Uns entkommen (können)? Wie böse ist, was sie urteilen!
+*5
+Wer die Begegnung mit Allah erwartet -, so wird Allahs Frist sicher kommen. Und Er ist der Allhörende und Allwissende.
+*6
+Und wer sich abmüht, der müht sich nur zu seinem eigenen Vorteil ab, denn Allah ist der Weltenbewohner fürwahr unbedürftig.
+*7
+Denjenigen, die glauben und rechtschaffene Werke tun, werden Wir ganz gewiß ihre bösen Taten tilgen und ihnen ganz gewiß das Beste vergelten von dem, was sie taten.
+*8
+Und Wir haben dem Menschen anbefohlen, seine Eltern mit Güte zu behandeln. Wenn sie sich aber darum bemühen, daß Du Mir das beigesellst, wovon du kein Wissen hast, dann gehorche ihnen nicht. Zu Mir wird eure Rückkehr sein, da werde Ich euch kundtun, was ihr zu tun pflegtet.
+*9
+Diejenigen, die glauben und rechtschaffene Werke tun, lassen Wir in die Reihen der Rechtschaffenen eingehen.
+*10
+Und unter den Menschen gibt es manchen, der sagt: "Wir glauben an Allah." Wenn ihm aber um Allahs willen Leid zugefügt wird, setzt er die Anfechtung durch die Menschen der Strafe Allahs gleich. Wenn jedoch Hilfe von deinem Herrn kommt, sagen sie ganz gewiß: "Wir sind ja mit euch gewesen." Weiß Allah denn nicht besser Bescheid über das, was in den Brüsten der Weltenbewohner steckt?
+*11
+Und Allah wird ganz gewiß diejenigen kennen, die glauben, und Er wird ganz gewiß die Heuchler kennen.
+*12
+Und diejenigen, die ungläubig sind, sagen zu denjenigen, die glauben: "Folgt unserem Weg. Laßt uns eure Verfehlungen tragen." Tragen werden sie aber nichts von ihren Verfehlungen, denn sie sind fürwahr Lügner.
+*13
+Ganz gewiß werden sie ihre (eigenen) Lasten tragen, und auch (weitere) Lasten zu ihren (eigenen) Lasten hinzu. Und sie werden am Tag der Auferstehung ganz gewiß befragt werden nach dem, was sie zu ersinnen pflegten.
+*14
+Und Wir sandten bereits Nuh zu seinem Volk. Er verweilte unter ihnen tausend Jahre weniger fünfzig Jahre. Da ergriff sie die Überschwemmung, während sie Unrecht taten.
+*39
+Und (erwähne weiterhin) Qarun und Fir'aun und Haman. Musa kam ja zu ihnen mit den klaren Beweisen. Aber sie verhielten sich hochmütig auf der Erde; doch konnten sie (Uns) nicht zuvorkommen.
+*40
+Einen jeden ergriffen Wir für seine Sünde; so sandten Wir gegen einige von ihnen einen Sturm von Steinchen, andere ergriff der Schrei, mit anderen ließen Wir die Erde versinken, andere ließen Wir ertrinken. Und nimmer ist es Allah, der ihnen Unrecht getan hat, sondern sie selbst haben sich Unrecht zugefügt.
+*41
+Das Gleichnis derjenigen, die sich anstatt Allahs Schutzherren nehmen, ist das der Spinne, die sich ein Haus genommen hat; das schwächste Haus ist fürwahr das Haus der Spinne, wenn sie (es) nur wüßten!
+*42
+Gewiß, Allah weiß all das, was sie anstatt Seiner anrufen. Und Er ist der Allmächtige und Allweise.
+*43
+Diese Gleichnisse prägen Wir für die Menschen. Aber nur diejenigen verstehen sie, die Wissen besitzen.
+*44
+Allah hat die Himmel und die Erde in Wahrheit erschaffen. Darin ist wahrlich ein Zeichen für die Gläubigen.
+*45
+Verlies, was dir vom Buch (als Offenbarung) eingegeben wird, und verrichte das Gebet. Gewiß, das Gebet hält davon ab, das Schändliche und das Verwerfliche (zu tun). Und das Gedenken Allahs ist wahrlich größer. Und Allah weiß, was ihr macht.
+*46
+Und streitet mit den Leuten der Schrift nur in bester Weise, außer denjenigen von ihnen, die Unrecht tun. Und sagt: "Wir glauben an das, was (als Offenbarung) zu uns herabgesandt worden ist und zu euch herabgesandt worden ist; unser Gott und euer Gott ist Einer, und wir sind Ihm ergeben."
+*47
+Und so haben Wir das Buch zu dir hinabgesandt. Diejenigen, denen Wir die Schrift gaben, glauben daran. Und auch unter diesen da gibt es manche, die daran glauben. Nur die Ungläubigen verleugnen Unsere Zeichen.
+*48
+Und du hast vordem kein Buch verlesen und es auch nicht mit deiner rechten Hand niedergeschrieben. Sonst würden wahrlich diejenigen zweifeln, die (es) für falsch erklären.
+*49
+Nein! Vielmehr sind es klare Zeichen in den Brüsten derjenigen, denen das Wissen gegeben worden ist. Und nur die Ungerechten verleugnen Unsere Zeichen.
+*50
+Und sie sagen: "Wenn doch Zeichen von seinem Herrn auf ihn herabgesandt würden!" Sag: Über die Zeichen verfügt (allein) Allah. Und ich bin nur ein deutlicher Warner.
+*51
+Genügt es ihnen denn nicht, daß Wir das Buch auf dich hinabgesandt haben, das ihnen verlesen wird? Darin ist wahrlich eine Barmherzigkeit und eine Ermahnung für Leute, die glauben.
+*52
+Sag: Allah genügt zwischen mir und euch als Zeuge. Er weiß, was in den Himmeln und auf der Erde ist. Und diejenigen, die an das Falsche glauben und Allah verleugnen, das sind die Verlierer.
+*53
+Und sie wünschen von dir, die Strafe zu beschleunigen. Wenn es nicht eine festgesetzte Frist gäbe, wäre die Strafe wahrlich zu ihnen gekommen. Aber ganz gewiß wird sie plötzlich über sie kommen, ohne daß sie merken.
+*54
+Sie wünschen von dir, die Strafe zu beschleunigen, doch wahrlich, die Hölle umfaßt die Ungläubigen,
+*55
+am Tag, da die Strafe sie von oben und von unterhalb ihrer Füße her überdeckt, und Er sagt: "Kostet, was ihr zu tun pflegtet."
+*56
+O Meine Diener, die ihr glaubt, gewiß, Meine Erde ist weit. So dient Mir, ja, allein Mir.
+*57
+Jede Seele wird den Tod kosten. Hierauf werdet ihr zu Uns zurückgebracht.
+*58
+Denjenigen, die glauben und rechtschaffene Werke tun, werden Wir im (Paradies)garten ganz gewiß Obergemächer zuweisen, durcheilt von Bächen; ewig darin zu bleiben. Wie trefflich ist der Lohn derjenigen, die (gut) handeln,
+*59
+die standhaft sind und sich auf ihren Herrn verlassen.
+*60
+Und wie viele Tiere tragen ihre (eigene) Versorgung nicht herbei! Allah versorgt sie und euch. Und Er ist der Allhörende und Allwissende.
+*61
+Und wenn du sie fragst, wer die Himmel und die Erde erschaffen und die Sonne und den Mond dienstbar gemacht hat, sagen sie ganz gewiß: "Allah." Wie lassen sie sich also abwendig machen?
+*62
+Allah gewährt die Versorgung großzügig, wem von Seinen Dienern Er will, und bemißt ihm auch. Gewiß, Allah weiß über alles Bescheid.
+*63
+Und wenn du sie fragst, wer vom Himmel Wasser herabkommen läßt und dann damit die Erde nach ihrem Tod wieder lebendig macht, sagen sie ganz gewiß: "Allah." Sag: (Alles) Lob gehört Allah! Aber nein! Die meisten von ihnen begreifen nicht.
+*64
+Dieses irdische Leben ist nur Zerstreuung und Spiel. Die jenseitige Wohnstätte aber ist wahrlich das eigentliche Leben, wenn sie (es) nur wüßten!
+*65
+Wenn sie ein Schiff besteigen, rufen sie Allah an, (wobei sie) Ihm gegenüber aufrichtig in der Religion (sind). Wenn Er sie nun ans Land errettet, gesellen sie sogleich (Ihm wieder andere) bei,
+*66
+um undankbar zu sein für das, was Wir ihnen gegeben haben, und um zu genießen; sie werden (es noch) erfahren.
+*67
+Sehen sie denn nicht, daß Wir einen sicheren geschützten Bezirk gemacht haben, während die Menschen in ihrer Umgebung fortgerissen werden? Wollen sie denn an das Falsche glauben und Allahs Gunst verleugnen?
+*68
+Und wer ist ungerechter als jemand, der gegen Allah eine Lüge ersinnt oder die Wahrheit, nachdem sie zu ihm gekommen ist, für Lüge erklärt? Ist nicht in der Hölle ein Aufenthaltsort für die Ungläubigen?
+*69
+Diejenigen aber, die sich um Unsertwillen abmühen, werden Wir ganz gewiß Unsere Wege leiten. Und Allah ist wahrlich mit den Gutes Tuenden.`,
 
 
   'Transliteration': `
-Bismillah hir rahman nir raheem
 *1
-Alif-lam-meem
+Aliflammeem
 *2
 Ahasiba alnnasu an yutrakoo an yaqooloo amanna wahum la yuftanoona
 *3
 Walaqad fatanna allatheena min qablihim falayaAAlamanna Allahu allatheena sadaqoo walayaAAlamanna alkathibeena
 *4
-Am hasiba allatheena yaAAmaloona alssayyi-ati an yasbiqoona saa ma yahkumoona
+Am hasiba allatheena yaAAmaloona alssayyiati an yasbiqoona saa ma yahkumoona
 *5
-Man kana yarjoo liqaa Allahi fa-inna ajala Allahi laatin wahuwa alssameeAAu alAAaleemu
+Man kana yarjoo liqaa Allahi fainna ajala Allahi laatin wahuwa alssameeAAu alAAaleemu
 *6
-Waman jahada fa-innama yujahidu linafsihi inna Allaha laghaniyyun AAani alAAalameena
-*7
-Waallatheena amanoo waAAamiloo alssalihati lanukaffiranna AAanhum sayyi-atihim walanajziyannahum ahsana allathee kanoo yaAAmaloona
-*8
-Wawassayna al-insana biwalidayhi husnan wa-in jahadaka litushrika bee ma laysa laka bihi AAilmun fala tutiAAhuma ilayya marjiAAukum faonabbi-okum bima kuntum taAAmaloona
-*9
-Waallatheena amanoo waAAamiloo alssalihati lanudkhilannahum fee alssaliheena
-*10
-Wamina alnnasi man yaqoolu amanna biAllahi fa-itha oothiya fee Allahi jaAAala fitnata alnnasi kaAAathabi Allahi wala-in jaa nasrun min rabbika layaqoolunna inna kunna maAAakum awa laysa Allahu bi-aAAlama bima fee sudoori alAAalameena
-*11
-WalayaAAlamanna Allahu allatheena amanoo walayaAAlamanna almunafiqeena
-*12
-Waqala allatheena kafaroo lillatheena amanoo ittabiAAoo sabeelana walnahmil khatayakum wama hum bihamileena min khatayahum min shay-in innahum lakathiboona
-*13
-Walayahmilunna athqalahum waathqalan maAAa athqalihim walayus-alunna yawma alqiyamati AAamma kanoo yaftaroona
-*14
-Walaqad arsalna noohan ila qawmihi falabitha feehim alfa sanatin illa khamseena AAaman faakhathahumu alttoofanu wahum thalimoona
+Waman jahada fainnama yujahidu linafsihi inna Allaha laghaniyyun AAani alAAalameena
 *15
-Faanjaynahu waas-haba alssafeenati wajaAAalnaha ayatan lilAAalameena
+Faanjaynahu waashaba alssafeenati wajaAAalnaha ayatan lilAAalameena
 *16
-Wa-ibraheema ith qala liqawmihi oAAbudoo Allaha waittaqoohu thalikum khayrun lakum in kuntum taAAlamoona
+Waibraheema ith qala liqawmihi oAAbudoo Allaha waittaqoohu thalikum khayrun lakum in kuntum taAAlamoona
 *17
 Innama taAAbudoona min dooni Allahi awthanan watakhluqoona ifkan inna allatheena taAAbudoona min dooni Allahi la yamlikoona lakum rizqan faibtaghoo AAinda Allahi alrrizqa waoAAbudoohu waoshkuroo lahu ilayhi turjaAAoona
 *18
-Wa-in tukaththiboo faqad kaththaba omamun min qablikum wama AAala alrrasooli illa albalaghu almubeenu
+Wain tukaththiboo faqad kaththaba omamun min qablikum wama AAala alrrasooli illa albalaghu almubeenu
 *19
-Awa lam yaraw kayfa yubdi-o Allahu alkhalqa thumma yuAAeeduhu inna thalika AAala Allahi yaseerun
+Awalam yaraw kayfa yubdio Allahu alkhalqa thumma yuAAeeduhu inna thalika AAala Allahi yaseerun
 *20
-Qul seeroo fee al-ardi faonthuroo kayfa badaa alkhalqa thumma Allahu yunshi-o alnnash-ata al-akhirata inna Allaha AAala kulli shay-in qadeerun
+Qul seeroo fee alardi faonthuroo kayfa badaa alkhalqa thumma Allahu yunshio alnnashata alakhirata inna Allaha AAala kulli shayin qadeerun
 *21
-YuAAaththibu man yashao wayarhamu man yashao wa-ilayhi tuqlaboona
+YuAAaththibu man yashao wayarhamu man yashao wailayhi tuqlaboona
 *22
-Wama antum bimuAAjizeena fee al-ardi wala fee alssama-i wama lakum min dooni Allahi min waliyyin wala naseerin
+Wama antum bimuAAjizeena fee alardi wala fee alssamai wama lakum min dooni Allahi min waliyyin wala naseerin
 *23
-Waallatheena kafaroo bi-ayati Allahi waliqa-ihi ola-ika ya-isoo min rahmatee waola-ika lahum AAathabun aleemun
+Waallatheena kafaroo biayati Allahi waliqaihi olaika yaisoo min rahmatee waolaika lahum AAathabun aleemun
 *24
-Fama kana jawaba qawmihi illa an qaloo oqtuloohu aw harriqoohu faanjahu Allahu mina alnnari inna fee thalika laayatin liqawmin yu/minoona
+Fama kana jawaba qawmihi illa an qaloo oqtuloohu aw harriqoohu faanjahu Allahu mina alnnari inna fee thalika laayatin liqawmin yuminoona
 *25
-Waqala innama ittakhathtum min dooni Allahi awthanan mawaddata baynikum fee alhayati alddunya thumma yawma alqiyamati yakfuru baAAdukum bibaAAdin wayalAAanu baAAdukum baAAdan wama-wakumu alnnaru wama lakum min nasireena
+Waqala innama ittakhathtum min dooni Allahi awthanan mawaddata baynikum fee alhayati alddunya thumma yawma alqiyamati yakfuru baAAdukum bibaAAdin wayalAAanu baAAdukum baAAdan wamawakumu alnnaru wama lakum min nasireena
 *26
 Faamana lahu lootun waqala innee muhajirun ila rabbee innahu huwa alAAazeezu alhakeemu
 *27
-Wawahabna lahu ishaqa wayaAAqooba wajaAAalna fee thurriyyatihi alnnubuwwata waalkitaba waataynahu ajrahu fee alddunya wa-innahu fee al-akhirati lamina alssaliheena
+Wawahabna lahu ishaqa wayaAAqooba wajaAAalna fee thurriyyatihi alnnubuwwata waalkitaba waataynahu ajrahu fee alddunya wainnahu fee alakhirati lamina alssaliheena
 *28
-Walootan ith qala liqawmihi innakum lata/toona alfahishata ma sabaqakum biha min ahadin mina alAAalameena
+Walootan ith qala liqawmihi innakum latatoona alfahishata ma sabaqakum biha min ahadin mina alAAalameena
 *29
-A-innakum lata/toona alrrijala wataqtaAAoona alssabeela wata/toona fee nadeekumu almunkara fama kana jawaba qawmihi illa an qaloo i/tina biAAathabi Allahi in kunta mina alssadiqeena
+Ainnakum latatoona alrrijala wataqtaAAoona alssabeela watatoona fee nadeekumu almunkara fama kana jawaba qawmihi illa an qaloo itina biAAathabi Allahi in kunta mina alssadiqeena
 *30
 Qala rabbi onsurnee AAala alqawmi almufsideena
 *31
@@ -211,79 +282,79 @@ Walamma jaat rusuluna ibraheema bialbushra qaloo inna muhlikoo ahli hathihi alqa
 *32
 Qala inna feeha lootan qaloo nahnu aAAlamu biman feeha lanunajjiyannahu waahlahu illa imraatahu kanat mina alghabireena
 *33
-Walamma an jaat rusuluna lootan see-a bihim wadaqa bihim tharAAan waqaloo la takhaf wala tahzan inna munajjooka waahlaka illa imraataka kanat mina alghabireena
+Walamma an jaat rusuluna lootan seea bihim wadaqa bihim tharAAan waqaloo la takhaf wala tahzan inna munajjooka waahlaka illa imraataka kanat mina alghabireena
 *34
-Inna munziloona AAala ahli hathihi alqaryati rijzan mina alssama-i bima kanoo yafsuqoona
+Inna munziloona AAala ahli hathihi alqaryati rijzan mina alssamai bima kanoo yafsuqoona
 *35
 Walaqad tarakna minha ayatan bayyinatan liqawmin yaAAqiloona
 *36
-Wa-ila madyana akhahum shuAAayban faqala ya qawmi oAAbudoo Allaha waorjoo alyawma al-akhira wala taAAthaw fee al-ardi mufsideena
+Waila madyana akhahum shuAAayban faqala ya qawmi oAAbudoo Allaha waorjoo alyawma alakhira wala taAAthaw fee alardi mufsideena
 *37
-Fakaththaboohu faakhathat-humu alrrajfatu faasbahoo fee darihim jathimeena
+Fakaththaboohu faakhathathumu alrrajfatu faasbahoo fee darihim jathimeena
 *38
 WaAAadan wathamooda waqad tabayyana lakum min masakinihim wazayyana lahumu alshshaytanu aAAmalahum fasaddahum AAani alssabeeli wakanoo mustabsireena
 *39
-Waqaroona wafirAAawna wahamana walaqad jaahum moosa bialbayyinati faistakbaroo fee al-ardi wama kanoo sabiqeena
+Waqaroona wafirAAawna wahamana walaqad jaahum moosa bialbayyinati faistakbaroo fee alardi wama kanoo sabiqeena
 *40
-Fakullan akhathna bithanbihi faminhum man arsalna AAalayhi hasiban waminhum man akhathat-hu alssayhatu waminhum man khasafna bihi al-arda waminhum man aghraqna wama kana Allahu liyathlimahum walakin kanoo anfusahum yathlimoona
+Fakullan akhathna bithanbihi faminhum man arsalna AAalayhi hasiban waminhum man akhathathu alssayhatu waminhum man khasafna bihi alarda waminhum man aghraqna wama kana Allahu liyathlimahum walakin kanoo anfusahum yathlimoona
 *41
-Mathalu allatheena ittakhathoo min dooni Allahi awliyaa kamathali alAAankabooti ittakhathat baytan wa-inna awhana albuyooti labaytu alAAankabooti law kanoo yaAAlamoona
+Mathalu allatheena ittakhathoo min dooni Allahi awliyaa kamathali alAAankabooti ittakhathat baytan wainna awhana albuyooti labaytu alAAankabooti law kanoo yaAAlamoona
 *42
-Inna Allaha yaAAlamu ma yadAAoona min doonihi min shay-in wahuwa alAAazeezu alhakeemu
+Inna Allaha yaAAlamu ma yadAAoona min doonihi min shayin wahuwa alAAazeezu alhakeemu
 *43
-Watilka al-amthalu nadribuha lilnnasi wama yaAAqiluha illa alAAalimoona
+Watilka alamthalu nadribuha lilnnasi wama yaAAqiluha illa alAAalimoona
 *44
-Khalaqa Allahu alssamawati waal-arda bialhaqqi inna fee thalika laayatan lilmu-mineena
+Khalaqa Allahu alssamawati waalarda bialhaqqi inna fee thalika laayatan lilmumineena
 *45
-Otlu ma oohiya ilayka mina alkitabi waaqimi alssalata inna alssalata tanha AAani alfahsha-i waalmunkari walathikru Allahi akbaru waAllahu yaAAlamu ma tasnaAAoona
+Otlu ma oohiya ilayka mina alkitabi waaqimi alssalata inna alssalata tanha AAani alfahshai waalmunkari walathikru Allahi akbaru waAllahu yaAAlamu ma tasnaAAoona
 *46
-Wala tujadiloo ahla alkitabi illa biallatee hiya ahsanu illa allatheena thalamoo minhum waqooloo amanna biallathee onzila ilayna waonzila ilaykum wa-ilahuna wa-ilahukum wahidun wanahnu lahu muslimoona
+Wala tujadiloo ahla alkitabi illa biallatee hiya ahsanu illa allatheena thalamoo minhum waqooloo amanna biallathee onzila ilayna waonzila ilaykum wailahuna wailahukum wahidun wanahnu lahu muslimoona
 *47
-Wakathalika anzalna ilayka alkitaba faallatheena ataynahumu alkitaba yu/minoona bihi wamin haola-i man yu/minu bihi wama yajhadu bi-ayatina illa alkafiroona
+Wakathalika anzalna ilayka alkitaba faallatheena ataynahumu alkitaba yuminoona bihi wamin haolai man yuminu bihi wama yajhadu biayatina illa alkafiroona
 *48
 Wama kunta tatloo min qablihi min kitabin wala takhuttuhu biyameenika ithan lairtaba almubtiloona
 *49
-Bal huwa ayatun bayyinatun fee sudoori allatheena ootoo alAAilma wama yajhadu bi-ayatina illa alththalimoona
+Bal huwa ayatun bayyinatun fee sudoori allatheena ootoo alAAilma wama yajhadu biayatina illa alththalimoona
 *50
-Waqaloo lawla onzila AAalayhi ayatun min rabbihi qul innama al-ayatu AAinda Allahi wa-innama ana natheerun mubeenun
+Waqaloo lawla onzila AAalayhi ayatun min rabbihi qul innama alayatu AAinda Allahi wainnama ana natheerun mubeenun
 *51
-Awa lam yakfihim anna anzalna AAalayka alkitaba yutla AAalayhim inna fee thalika larahmatan wathikra liqawmin yu/minoona
+Awalam yakfihim anna anzalna AAalayka alkitaba yutla AAalayhim inna fee thalika larahmatan wathikra liqawmin yuminoona
 *52
-Qul kafa biAllahi baynee wabaynakum shaheedan yaAAlamu ma fee alssamawati waal-ardi waallatheena amanoo bialbatili wakafaroo biAllahi ola-ika humu alkhasiroona
+Qul kafa biAllahi baynee wabaynakum shaheedan yaAAlamu ma fee alssamawati waalardi waallatheena amanoo bialbatili wakafaroo biAllahi olaika humu alkhasiroona
 *53
-WayastaAAjiloonaka bialAAathabi walawla ajalun musamman lajaahumu alAAathabu walaya/tiyannahum baghtatan wahum la yashAAuroona
+WayastaAAjiloonaka bialAAathabi walawla ajalun musamman lajaahumu alAAathabu walayatiyannahum baghtatan wahum la yashAAuroona
 *54
-YastaAAjiloonaka bialAAathabi wa-inna jahannama lamuheetatun bialkafireena
+YastaAAjiloonaka bialAAathabi wainna jahannama lamuheetatun bialkafireena
 *55
 Yawma yaghshahumu alAAathabu min fawqihim wamin tahti arjulihim wayaqoolu thooqoo ma kuntum taAAmaloona
 *56
-Ya AAibadiya allatheena amanoo inna ardee wasiAAatun fa-iyyaya faoAAbudooni
+Ya AAibadiya allatheena amanoo inna ardee wasiAAatun faiyyaya faoAAbudooni
 *57
-Kullu nafsin tha-iqatu almawti thumma ilayna turjaAAoona
+Kullu nafsin thaiqatu almawti thumma ilayna turjaAAoona
 *58
-Waallatheena amanoo waAAamiloo alssalihati lanubawwi-annahum mina aljannati ghurafan tajree min tahtiha al-anharu khalideena feeha niAAma ajru alAAamileena
+Waallatheena amanoo waAAamiloo alssalihati lanubawwiannahum mina aljannati ghurafan tajree min tahtiha alanharu khalideena feeha niAAma ajru alAAamileena
 *59
 Allatheena sabaroo waAAala rabbihim yatawakkaloona
 *60
-Wakaayyin min dabbatin la tahmilu rizqaha Allahu yarzuquha wa-iyyakum wahuwa alssameeAAu alAAaleemu
+Wakaayyin min dabbatin la tahmilu rizqaha Allahu yarzuquha waiyyakum wahuwa alssameeAAu alAAaleemu
 *61
-Wala-in saaltahum man khalaqa alssamawati waal-arda wasakhkhara alshshamsa waalqamara layaqoolunna Allahu faanna yu/fakoona
+Walain saaltahum man khalaqa alssamawati waalarda wasakhkhara alshshamsa waalqamara layaqoolunna Allahu faanna yufakoona
 *62
-Allahu yabsutu alrrizqa liman yashao min AAibadihi wayaqdiru lahu inna Allaha bikulli shay-in AAaleemun
+Allahu yabsutu alrrizqa liman yashao min AAibadihi wayaqdiru lahu inna Allaha bikulli shayin AAaleemun
 *63
-Wala-in saaltahum man nazzala mina alssama-i maan faahya bihi al-arda min baAAdi mawtiha layaqoolunna Allahu quli alhamdu lillahi bal aktharuhum la yaAAqiloona
+Walain saaltahum man nazzala mina alssamai maan faahya bihi alarda min baAAdi mawtiha layaqoolunna Allahu quli alhamdu lillahi bal aktharuhum la yaAAqiloona
 *64
-Wama hathihi alhayatu alddunya illa lahwun walaAAibun wa-inna alddara al-akhirata lahiya alhayawanu law kanoo yaAAlamoona
+Wama hathihi alhayatu alddunya illa lahwun walaAAibun wainna alddara alakhirata lahiya alhayawanu law kanoo yaAAlamoona
 *65
-Fa-itha rakiboo fee alfulki daAAawoo Allaha mukhliseena lahu alddeena falamma najjahum ila albarri itha hum yushrikoona
+Faitha rakiboo fee alfulki daAAawoo Allaha mukhliseena lahu alddeena falamma najjahum ila albarri itha hum yushrikoona
 *66
 Liyakfuroo bima ataynahum waliyatamattaAAoo fasawfa yaAAlamoona
 *67
-Awa lam yaraw anna jaAAalna haraman aminan wayutakhattafu alnnasu min hawlihim afabialbatili yu/minoona wabiniAAmati Allahi yakfuroona
+Awalam yaraw anna jaAAalna haraman aminan wayutakhattafu alnnasu min hawlihim afabialbatili yuminoona wabiniAAmati Allahi yakfuroona
 *68
 Waman athlamu mimmani iftara AAala Allahi kathiban aw kaththaba bialhaqqi lamma jaahu alaysa fee jahannama mathwan lilkafireena
 *69
-Waallatheena jahadoo feena lanahdiyannahum subulana wa-inna Allaha lamaAAa almuhsineena
+Waallatheena jahadoo feena lanahdiyannahum subulana wainna Allaha lamaAAa almuhsineena
 `
 };
 

@@ -15,18 +15,29 @@ export const qadrContent = {
 
 `,
 
+'Deutsch': `Bismillah hir rahman nir raheem
+*1
+Wir haben ihn ja in der Nacht der Bestimmung hinabgesandt.
+*2
+Und was läßt dich wissen, was die Nacht der Bestimmung ist?
+*3
+Die Nacht der Bestimmung ist besser als tausend Monate.
+*4
+Es kommen die Engel und der Geist in ihr mit der Erlaubnis ihres Herrn mit jeder Angelegenheit herab.
+*5
+Frieden ist sie bis zum Anbruch der Morgendämmerung.`,
+
 'Transliteration': ` Bismillah hir rahman nir raheem 
 *1
-Innaa anzalnaahu fee lailatil qadr
+Innaa anzalnaahu fee Laylatil Qadr
 *2
-Wa maa adraaka ma lailatul qadr
+Wa maaa adraaka maa Laylatul Qadr
 *3
-Lailatul qadri khairum min alfee shahr
+Laylatul Qadri khairum min alfish shahr
 *4
-Tanaz zalul malaa-ikatu war roohu feeha bi izni-rab bihim min kulli amr
+Tanazzalul malaaa'ikatu war roohu feehaa bi izni Rabbihim min kulli amr
 *5
-Salaamun hiya hattaa mat la’il fajr
-
+Salaamun hiya hatta matla'il fajr
 `
 };
 

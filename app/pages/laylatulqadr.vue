@@ -1,31 +1,81 @@
-<template> 
-        <div class="text-center ">
-            <h1 class="text-green-700 font-bold text-3xl">Hier werdet ihr alle wichtigen Aamal die für diese Nacht sehr empfohlen und wichtig sind</h1>
-        </div>
+<template>
+  <div class="flex text-center align-center mx-auto flex-row">
+    <div 
+      v-for="(category, catIndex) in duaCategories" 
+      :key="catIndex"
+      class="bg-white p-12 rounded-4xl shadow-sm border border-gray-200 w-full"
+    >
+      <h2 class="text-lg font-bold text-gray-800 mb-4 border-b pb-4 border-green-300">
+        {{ category.name }}
+      </h2>
 
-        <div class="text-center flex flex-col">
-            <h1 class="text-2xl text-gray-500 font-bold py-4">Rezitiere folgende Suren:</h1>
-                <NuxtLink to="/al_ankabut" class="text-green-700 font-bold text-xl hover:underline">Sure Al-Ankbaut</NuxtLink>
-                <NuxtLink to="/al_room" class="text-green-700 font-bold text-xl hover:underline">Sure Al-Room</NuxtLink>
-                <NuxtLink to="/ad_dukhan" class="text-green-700 font-bold text-xl hover:underline">Sure Ad-Dukhan</NuxtLink>
-                <NuxtLink to="/qadr" class="text-green-700 font-bold text-xl hover:underline">Sure Al-Qadr</NuxtLink>
-
-            <h1 class="text-2xl text-gray-500 font-bold py-4">Rezitiere folgende Ziyarat:</h1>
-                <NuxtLink to="/bittgebet_koran" class="text-green-700 font-bold text-xl hover:underline">Das Bittgebet des Quran</NuxtLink>
-                <NuxtLink to="/ali_al_akbar" class="text-green-700 font-bold text-xl hover:underline">Ziyarat Ali Al Akbar</NuxtLink>
-                <NuxtLink to="/shohadaa" class="text-green-700 font-bold text-xl hover:underline">Ziyarat Shohadaa Karbala</NuxtLink>
-                <NuxtLink to="/abal_fadl" class="text-green-700 font-bold text-xl hover:underline">Ziyarat Abu al Fadl al Abbas</NuxtLink>
-                <NuxtLink to="/ziyarat_hussain" class="text-green-700 font-bold text-xl hover:underline">Ziyarat Imam Al Hussain as.</NuxtLink>
-                <NuxtLink to="/ashura" class="text-green-700 font-bold text-xl hover:underline">Ziyarat Ashura</NuxtLink>
-                <NuxtLink to="/ziyarat_ali" class="text-green-700 font-bold text-xl hover:underline">Ziyarat Imam Ali as.</NuxtLink>
-            
-            <h1 class="text-2xl text-gray-500 font-bold py-4">Rezitiere folgende Duas:</h1>
-                <NuxtLink to="/iftitah" class="text-green-700 font-bold text-xl hover:underline">Dua Al Iftitah</NuxtLink>
-                <NuxtLink to="/jawshan" class="text-green-700 font-bold text-xl hover:underline">Dua Jawshan Al Kabir</NuxtLink>
-                <NuxtLink to="/dua_sajjad" class="text-green-700 font-bold text-xl hover:underline">Dua Imam Al Sajjad as.</NuxtLink>
-                <NuxtLink to="/allahumma" class="text-green-700 font-bold text-xl hover:underline">Dua Allahumma inni amsaytu</NuxtLink>
-                <NuxtLink to="/abu_hamza" class="text-green-700 font-bold text-xl hover:underline">Dua Abu Hamza Thumali</NuxtLink>
-                <NuxtLink to="/munajat_taibeen" class="text-green-700 font-bold text-xl hover:underline">Munajat al-Taibeen</NuxtLink>
-                
-        </div>
+      <div class="">
+        <NuxtLink 
+          v-for="(item, itemIndex) in category.links" 
+          :key="itemIndex"
+          :to="item.url"
+          class="block p-3 bg-gray-50 hover:bg-gray-300 transition-colors rounded-lg border-l-4 border-green-600 text-gray-700 text-sm font-bold"
+        >
+          {{ item.title }}
+        </NuxtLink>
+      </div>
+    </div>
+  </div>
 </template>
+
+<script setup>
+const duaCategories = [
+  {
+    name: "Nacht 1",
+    links: [
+        { title: "Sure al-Qadr", url: "/qadr" },
+      { title: "Dua Abu Hamza al-Thumali", url: "/abu_hamza" },  
+      { title: "Dua Jawshan al Kabeer", url: "/jawshan" },
+      { title: "Dua Kumail", url: "/kumail" },
+      { title: "Dua Allahumma inni amsaytu", url: "/allahumma" },
+      { title: "Bittgebet des Korans", url: "/bittgebet_koran" },
+      { title: "Ziyarat Imam al Hussain", url: "/ziyarat_hussain" },
+      { title: "Ziyarat Ashura", url: "/ashura" },
+      
+      
+    ]
+  },
+  {
+    name: "Nacht 2",
+    links: [
+      { title: "Sure al-Qadr", url: "/qadr" },
+      { title: "Dua Abu Hamza al-Thumali", url: "/abu_hamza" },  
+      { title: "Dua Jawshan al Kabeer", url: "/jawshan" },
+      { title: "Dua Kumail", url: "/kumail" },
+      { title: "Dua Allahumma inni amsaytu", url: "/allahumma" },
+      { title: "Bittgebet des Korans", url: "/bittgebet_koran" },
+      { title: "Ziyarat Imam al Hussain a.s.", url: "/ziyarat_hussain" },
+      { title: "Ziyarat Imam Ali a.s.", url: "/ziyarat_ali" },
+      { title: "Ziyarat Ashura", url: "/ashura" },
+      { title: "Ziyarat Ameenallah", url: "/ziyarat_ameenallah" },
+      
+    ]
+  },
+  {
+    name: "Nacht 3",
+    links: [
+      { title: "Sure al-Ankabut", url: "/al_ankabut" },  
+      { title: "Sure al-Room", url: "/al_room" },
+      { title: "Sure ad-Dukhan", url: "/ad_dukhan" },
+        { title: "Sure al-Qadr", url: "/qadr" },
+        { title: "Dua al-Iftitah", url: "/iftitah" },
+        { title: "Dua Imam Sajjad a.s.", url: "/dua_sajjad" },
+      { title: "Dua Abu Hamza al-Thumali", url: "/abu_hamza" },  
+      { title: "Dua Jawshan al Kabeer", url: "/jawshan" },
+      { title: "Dua Kumail", url: "/kumail" },
+      { title: "Dua Allahumma inni amsaytu", url: "/allahumma" },
+      { title: "Bittgebet des Korans", url: "/bittgebet_koran" },
+      { title: "Ziyarat Ali Al Akbar", url: "/ali_al_akbar" },
+      { title: "Ziyarat Shohadaa Karbala", url: "/shohadaa" },
+      { title: "Ziyarat Abu Fadl Abbas", url: "/abal_fadl" },
+      { title: "Ziyarat Imam al Hussain", url: "/ziyarat_hussain" },
+      { title: "Ziyarat Ashura", url: "/ashura" },
+    ]
+  }
+]
+</script>
