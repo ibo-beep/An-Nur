@@ -890,7 +890,8 @@ wa bilmuwalati linabiyyika wa ali nabiyyika
 
 \`alayhi wa \`alayhim alssalamu
 
-You may then repeat the following Laan ** one hundred times:allahumma il\`an awwala zalimin
+You may then repeat the following Laan ** one hundred times:
+allahumma il\`an awwala zalimin
 
 zalama haqqa muhammadin wa ali muhammadin
 
@@ -904,7 +905,8 @@ wa shaya\`at wa baya\`at wa taba\`at \`ala qatlihi
 allahumma il\`anhum jami\`an
 
 
-You may then repeat the following salam ** one hundred times:alssalamu \`alayka ya aba \`abdillahi
+You may then repeat the following salam ** one hundred times:
+alssalamu \`alayka ya aba \`abdillahi
 
 wa \`ala al-arwahi allati hallat bifina'ika
 

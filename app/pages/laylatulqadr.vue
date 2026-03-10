@@ -37,8 +37,11 @@ const duaCategories = [
       { title: "Dua al-Iftitah", url: "/iftitah" },
       { title: "Dua Allahumma inni amsaytu", url: "/allahumma" },
       { title: "Bittgebet des Korans", url: "/bittgebet_koran" },
-      { title: "Ziyarat Imam al Hussain", url: "/ziyarat_hussain" },
+      { title: "Ziyarat Imam al Hussain", url: "/ziyarat_hussain" },{ title: "Ziyarat Ali Al Akbar", url: "/ali_al_akbar" },
+      { title: "Ziyarat Shohadaa Karbala", url: "/shohadaa" },
+      { title: "Ziyarat Abu Fadl Abbas", url: "/abal_fadl" },
       { title: "Ziyarat Ashura", url: "/ashura" },
+      
     ]
   },
   {
@@ -53,6 +56,9 @@ const duaCategories = [
       { title: "Bittgebet des Korans", url: "/bittgebet_koran" },
       { title: "Ziyarat Imam al Hussain a.s.", url: "/ziyarat_hussain" },
       { title: "Ziyarat Imam Ali a.s.", url: "/ziyarat_ali" },
+      { title: "Ziyarat Ali Al Akbar", url: "/ali_al_akbar" },
+      { title: "Ziyarat Shohadaa Karbala", url: "/shohadaa" },
+      { title: "Ziyarat Abu Fadl Abbas", url: "/abal_fadl" },
       { title: "Ziyarat Ashura", url: "/ashura" },
       { title: "Ziyarat Ameenallah", url: "/ziyarat_ameenallah" },
     ]

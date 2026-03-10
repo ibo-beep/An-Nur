@@ -372,7 +372,16 @@ Beeile dich! Beeile dich! Oh mein Meister, oh Meister der Ära.
 
 
 
-  'Transliteration': `wa rabba alkursiyyi alrrafii \ wa rabba albahri almasjuri \ wa munzila alttawrati wal-injili wallzzaburi \ wa rabba alzzilli walharuri \ wa munzila alqur'ani alazimi 
+  'Transliteration': `allahumma rabba alnnuri al\`azimi 
+wa rabba alkursiyyi alrrafii
+
+wa rabba albahri almasjuri 
+
+wa munzila alttawrati wal-injili wallzzaburi  
+
+wa rabba alzzilli walharuri  
+
+wa munzila alqur'ani alazimi 
 
 wa rabba almala'ikati almuqarrabina 
 
