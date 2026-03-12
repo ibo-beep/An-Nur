@@ -2835,33 +2835,81 @@ Ich flehe Dich vollauf an, ausgerüstet mit Gläubigkeit und sicherem Glauben. E
 
 
 
-  'Transliteration': `ilahi la tu'addibni biuqubatika \ wa la tamkur bi fi hilatika \ min ayna liya alkhayru ya rabbi \ wa la yujadu illa min indika 
+  'Transliteration': `ilahi la tu'addibni biuqubatika \
+  
+  wa la tamkur bi fi hilatika \ 
+  
+  min ayna liya alkhayru ya rabbi \ 
+  
+  wa la yujadu illa min indika 
 
 wa min ayna liya alnnajatu 
 
-wa la tustatau illa bika \ la alladhi ahsana istaghna an awnika wa rahmatika \ wa la alladhi asa'a wa ijtara'a alayka wa lam yurdika 
+wa la tustatau illa bika \ 
 
-kharaja an qudratika \ \ *(Wiederhole diesen Satz so oft wie möglich mit einem Atemzug:)* \ **ya rabbi, ya rabbi, ya rabbi...** \ \ bika arabftuka 
+la alladhi ahsana istaghna an awnika wa rahmatika \ 
 
-wa anta dalaltani alayka \ wa daawtani ilakya 
+wa la alladhi asa'a wa ijtara'a alayka wa lam yurdika 
+
+kharaja an qudratika \ \ 
+
+*(Wiederhole diesen Satz so oft wie möglich mit einem Atemzug:)* \
+
+**ya rabbi, ya rabbi, ya rabbi...** \ \
+
+bika arabftuka 
+
+wa anta dalaltani alayka \
+
+wa daawtani ilakya 
 
 wa lawla anta lam adri ma anta 
 
-alhamdu lillahi alladhi aduhu fayujibuni \ wa in kuntu bati'an hina yaduni 
+alhamdu lillahi alladhi aduhu fayujibuni \
 
-walhamdu lillahi alladhi as'aluhu fayutini \ wa in kuntu bakhilan hina yastaqriduni \ walhamdu lillahi alladhi unadihi kullama shi'tu lihajati \ wa akhlu bihi haythu shi'tu lisirri bighayri shafiin 
+wa in kuntu bati'an hina yaduni 
+
+walhamdu lillahi alladhi as'aluhu fayutini \ 
+
+wa in kuntu bakhilan hina yastaqriduni \ 
+
+walhamdu lillahi alladhi unadihi kullama shi'tu lihajati \ 
+
+wa akhlu bihi haythu shi'tu lisirri bighayri shafiin 
 
 fayaqdi li hajati 
 
-alhamdu lillahi alladhi la adu ghayrahu \ wa law daawtu ghayrahu lam yastajib li dua'i \ walhamdu lillahi alladhi la arju ghayrahu \ wa law rajawtu ghayrahu la'akhlafa raja'i \ walhamdu lillahi alladhi wakalani ilayhi fa akramani \ wa lam yakilni ila alnnasi fayuhinuni \ walhamdu lillahi alladhi tahabbaba ilayya \ wa huwa ghaniyyun anni 
+alhamdu lillahi alladhi la adu ghayrahu \ 
 
-walhamdu lillahi alladhi yahlumu anni \ hatta ka'anni la dhanba li \ fa rabbi ahmadu shay'in indi 
+wa law daawtu ghayrahu lam yastajib li dua'i \ 
+
+walhamdu lillahi alladhi la arju ghayrahu \ 
+
+wa law rajawtu ghayrahu la'akhlafa raja'i \ 
+
+walhamdu lillahi alladhi wakalani ilayhi fa akramani \ 
+
+wa lam yakilni ila alnnasi fayuhinuni \ 
+
+walhamdu lillahi alladhi tahabbaba ilayya \ 
+
+wa huwa ghaniyyun anni 
+
+walhamdu lillahi alladhi yahlumu anni \ 
+
+hatta ka'anni la dhanba li \ 
+
+fa rabbi ahmadu shay'in indi 
 
 wa ahaqqu bihamdi 
 
-allahumma inni ajidu subula almatalibi ilayka mushraatan \ wa manahila alrraja'i ladayka mutraatan 
+allahumma inni ajidu subula almatalibi ilayka mushraatan \ 
 
-walistianata bifadlika liman ammalaka mubahatan \ wa abwaba alddua'i ilayka lilssarikhina maftuhatan 
+wa manahila alrraja'i ladayka mutraatan 
+
+walistianata bifadlika liman ammalaka mubahatan \ 
+
+wa abwaba alddua'i ilayka lilssarikhina maftuhatan 
 
 wa alamu annaka lilrrajina bimawdii ijabatin 
 
@@ -2873,17 +2921,33 @@ wa alrrida biqada'ika
 
 iwadan min mani albakhilina 
 
-wa manduhatan amma fi aydi almusta'thirina \ wa anna alrrahila ilayka qaribu almasafati \ wa annaka la tahtajibu an khalqika 
+wa manduhatan amma fi aydi almusta'thirina \ 
 
-illa an tahjibahum al-amalu dunaka \ wa qad qasadtu ilayka bitalibati \ wa tawajjahtu ilayka bihajati \ wa jaaltu bika istighathati 
+wa anna alrrahila ilayka qaribu almasafati \ 
 
-wa bidua'ika tawassuli \ min ghayri istihqaqin listimaika minni 
+wa annaka la tahtajibu an khalqika 
+
+illa an tahjibahum al-amalu dunaka \ 
+
+wa qad qasadtu ilayka bitalibati \ 
+
+wa tawajjahtu ilayka bihajati \ 
+
+wa jaaltu bika istighathati 
+
+wa bidua'ika tawassuli \ 
+
+min ghayri istihqaqin listimaika minni 
 
 wa la istijabin liafwika anni 
 
 bal lithiqati bikaramika 
 
-wa sukuni ila sidqi wadika \ wa laja'i ila al-imani bitawhidika \ wa yaqini bimarifatika minni 
+wa sukuni ila sidqi wadika \
+
+wa laja'i ila al-imani bitawhidika \
+
+wa yaqini bimarifatika minni 
 
 an la rabba li ghayruka 
 
@@ -2893,31 +2957,97 @@ wahdaka la sharika laka
 
 allahumma anta alqa'ilu wa qawluka haqqun 
 
-wa waduka sidqun \ was'alu alllaha min fadlihi \ inna allaha kana bikum rahiman \ wa laysa min sifatika ya sayyidi \ an ta'mura bissu'ali wa tamnaa alatiyyata \ wa anta almannanu bilatiyyati ala ahli mamlakatika \ wala'idu alayhim bitahannuni ra'fatika \ ilahi rabbaytani fi niamika wa ihsanika saghiran 
+wa waduka sidqun \ 
+
+was'alu alllaha min fadlihi \
+
+inna allaha kana bikum rahiman \ 
+
+wa laysa min sifatika ya sayyidi \
+
+an ta'mura bissu'ali wa tamnaa alatiyyata \
+
+wa anta almannanu bilatiyyati ala ahli mamlakatika \
+
+wala'idu alayhim bitahannuni ra'fatika \ 
+
+ilahi rabbaytani fi niamika wa ihsanika saghiran 
 
 wa nawwahta bismi kabiran 
 
 faya man rabbani fi alddunya bi'ihsanihi 
 
-wa tafaddulihi wa niamihi \ wa ashara li fi al-akhirati ila afwihi wa karamihi 
+wa tafaddulihi wa niamihi \ 
+
+wa ashara li fi al-akhirati ila afwihi wa karamihi 
 
 marifati ya mawlaya dalili alayka 
 
-wa hubbi laka shafii ilayka \ wa ana wathiqun min dalili bidalalatika \ wa sakinun min shafii ila shafaatika \ aduka ya sayyidi bilisanin qad akhrasahu dhanbuhu 
+wa hubbi laka shafii ilayka \ 
+
+wa ana wathiqun min dalili bidalalatika \ 
+
+wa sakinun min shafii ila shafaatika \ 
+
+aduka ya sayyidi bilisanin qad akhrasahu dhanbuhu 
 
 rabbi unajika biqalbin qad awbaqahu jurmuhu 
 
-aduka ya rabbi rahiban raghiban \ rajiyan kha'ifan \ idha ra'aytu mawlaya dhunubi fazitu 
+aduka ya rabbi rahiban raghiban \ 
 
-wa idha ra'aytu karamaka tamitu \ fa'in afawta fakhayru rahimin 
+rajiyan kha'ifan \ 
 
-wa'in adhdhabta faghayru zalimin \ hujjati ya allahu fi jur'ati ala mas'alatika 
+idha ra'aytu mawlaya dhunubi fazitu 
 
-maa ityani ma takrahu juduka wa karamuka \ wa uddati fi shiddati maa qillati haya'i ra'fatuka wa rahmatuka \ wa qad rajawtu an la takhiba bayna dhayni wa dhayni munyati \ fahaqqiq raja'i \ wasma dua'i \ ya khayra man daahu dain \ wa afdala man rajahu rajin \ azuma ya sayyidi amali wa sa'a amali \ fa'atini min afwika bimiqdari amali \ wa la tu'akhidhni bi'aswa'i amali 
+wa idha ra'aytu karamaka tamitu \ 
 
-fa'inna karamaka yajillu an mujazati almudhnibina \ wa hilmaka yakburu an mukafa'ati almuqassirina 
+fa'in afawta fakhayru rahimin 
 
-wa ana ya sayyidi a'idhun bifadlika \ haribun minka ilayka \ mutanajjizun ma waadta min alssafhi amman ahsana bika zannan \ wa ma ana ya rabbi wa ma khatari \ habni bifadlika \ wa tasaddaq alayya biafwika \ ay rabbi jallilni bisitrika \ wafu an tawbikhi bikarami wajhika \ falaw ittalaa alyawma ala dhanbi ghayruka ma faaltuhu 
+wa'in adhdhabta faghayru zalimin \
+
+hujjati ya allahu fi jur'ati ala mas'alatika 
+
+maa ityani ma takrahu juduka wa karamuka \ 
+
+wa uddati fi shiddati maa qillati haya'i ra'fatuka wa rahmatuka \ 
+
+wa qad rajawtu an la takhiba bayna dhayni wa dhayni munyati \ 
+
+fahaqqiq raja'i \ 
+
+wasma dua'i \ 
+
+ya khayra man daahu dain \ 
+
+wa afdala man rajahu rajin \ 
+
+azuma ya sayyidi amali wa sa'a amali \ 
+
+fa'atini min afwika bimiqdari amali \ 
+
+wa la tu'akhidhni bi'aswa'i amali 
+
+fa'inna karamaka yajillu an mujazati almudhnibina \ 
+
+wa hilmaka yakburu an mukafa'ati almuqassirina 
+
+wa ana ya sayyidi a'idhun bifadlika \ 
+
+haribun minka ilayka \
+
+mutanajjizun ma waadta min alssafhi amman ahsana bika zannan \
+
+wa ma ana ya rabbi wa ma khatari \ 
+
+habni bifadlika \ 
+
+wa tasaddaq alayya biafwika \ 
+
+ay rabbi jallilni bisitrika \
+
+wafu an tawbikhi bikarami wajhika \ 
+
+falaw ittalaa alyawma ala dhanbi ghayruka ma faaltuhu 
 
 wa law khiftu tajila aluqubati lajtanabtuhu 
 
@@ -2931,13 +3061,21 @@ wa ahkamu alhakimina
 
 wa akramu al-akramina 
 
-sattaru aluyubi \ ghaffaru aldhdhunubi \ allamu alghuyubi 
+sattaru aluyubi \ 
+
+ghaffaru aldhdhunubi \ 
+
+allamu alghuyubi 
 
 tasturu aldhdhanba bikaramika 
 
-wa tu'akhkhiru aluqubata bihilmika \ falaka alhamdu ala hilmika bada ilmika 
+wa tu'akhkhiru aluqubata bihilmika \ 
 
-wa ala afwika bada qudratika \ wa yahmiluni wa yujarri'uni ala masiyatika hilmuka anni 
+falaka alhamdu ala hilmika bada ilmika 
+
+wa ala afwika bada qudratika \
+
+wa yahmiluni wa yujarri'uni ala masiyatika hilmuka anni 
 
 wa yaduni ila qillati alhaya'i sitruka alayya 
 
@@ -2951,47 +3089,119 @@ ya ghafira aldhdhanbi
 
 ya qabila alttawbi 
 
-ya azima almanni \ ya qadima al-ihsani \ ayna sitruka aljamilu \ ayna afwuka aljalilu 
+ya azima almanni \ 
+
+ya qadima al-ihsani \ 
+
+ayna sitruka aljamilu \ 
+
+ayna afwuka aljalilu 
 
 ayna farajuka alqaribu 
 
-ayna ghiyathuka alssariu \ ayna rahmatuka alwasiatu 
+ayna ghiyathuka alssariu \ 
 
-ayna atayaka alfadilatu \ ayna mawahibuka alhani'atu \ ayna sana'iuka alssaniyyatu 
+ayna rahmatuka alwasiatu 
 
-ayna fadluka alazimu \ ayna mannuka aljasimu \ ayna ihsanuka alqadimu \ ayna karamuka ya karimu \ bihi wa bimuhammadin wa ali muhammadin fastanqidhni \ wa birahmatika fakhallisni \ ya muhsinu \ ya mujmilu \ ya munimu ya mufdilu 
+ayna atayaka alfadilatu \ 
 
-lastu attakilu fi alnnajati min iqabika ala amalina \ bal bifadlika alayna 
+ayna mawahibuka alhani'atu \
+
+ayna sana'iuka alssaniyyatu 
+
+ayna fadluka alazimu \ 
+
+ayna mannuka aljasimu \ 
+
+ayna ihsanuka alqadimu \
+
+ayna karamuka ya karimu \
+
+bihi wa bimuhammadin wa ali muhammadin fastanqidhni \ 
+
+wa birahmatika fakhallisni \ 
+
+ya muhsinu \ 
+
+ya mujmilu \ 
+
+ya munimu ya mufdilu 
+
+lastu attakilu fi alnnajati min iqabika ala amalina \
+
+bal bifadlika alayna 
 
 li'annaka ahlu alttaqwa wa ahlu almaghfirati 
 
-tubdi'u bil-ihsani niaman \ wa tafu an aldhdhanbi karaman \ fama nadri ma nashkuru \ ajamila ma tanshuru am qabiha ma tasturu \ am azima ma ablayta wa awlayta 
+tubdi'u bil-ihsani niaman \ 
 
-am kathira ma minhu najjayta wa afayta \ ya habiba man tahabbaba ilayka \ wa ya qurrata ayni man ladha bika wa inqataa ilayka \ anta lmuhsinu wa nahnu almusi'una \ fatajawaz ya rabbi an qabihi ma indana bijamili ma indaka 
+wa tafu an aldhdhanbi karaman \ 
 
-wa ayyu jahlin ya rabbi la yasauhu juduka \ aw ayyu zamanin atwalu min anatika \ wa ma qadaru amalina fi janbi niamika \ wa kayfa nastakthiru amalan nuqabilu biha karamaka 
+fama nadri ma nashkuru \ 
+
+ajamila ma tanshuru am qabiha ma tasturu \ 
+
+am azima ma ablayta wa awlayta 
+
+am kathira ma minhu najjayta wa afayta \ 
+
+ya habiba man tahabbaba ilayka \
+
+wa ya qurrata ayni man ladha bika wa inqataa ilayka \ 
+
+anta lmuhsinu wa nahnu almusi'una \ 
+
+fatajawaz ya rabbi an qabihi ma indana bijamili ma indaka 
+
+wa ayyu jahlin ya rabbi la yasauhu juduka \ 
+
+aw ayyu zamanin atwalu min anatika \ 
+
+wa ma qadaru amalina fi janbi niamika \ 
+
+wa kayfa nastakthiru amalan nuqabilu biha karamaka 
 
 bal kayfa yadiqu ala almudhnibina ma wasiahum min rahmatika 
 
-ya wasia almaghfirati \ ya basita alyadayni bilrrahmati \ fawaizzatika ya sayyidi 
+ya wasia almaghfirati \ 
+
+ya basita alyadayni bilrrahmati \ 
+
+fawaizzatika ya sayyidi 
 
 law nahartani ma barihtu min babika 
 
-wa la kafaftu an tamalluqika \ lima intaha ilayya min almarifati bijudika wa karamika 
+wa la kafaftu an tamalluqika \ 
 
-wa anta alfailu lima tasha'u \ tuadhdhibu man tasha'u bima tasha'u kayfa tasha'u 
+lima intaha ilayya min almarifati bijudika wa karamika 
+
+wa anta alfailu lima tasha'u \ 
+
+tuadhdhibu man tasha'u bima tasha'u kayfa tasha'u 
 
 wa tarhamu man tasha'u bima tasha'u kayfa tasha'u 
 
 la tus'alu an filika 
 
-wa la tunazau fi mulkika \ wa la tusharaku fi amrika \ wa la tudaddu fi hukmika \ wa la yataridu alayka ahadun fi tadbirika \ laka alkhalqu wal-amru \ tabaraka allahu rabbu alalamina 
+wa la tunazau fi mulkika \ 
+
+wa la tusharaku fi amrika \ 
+
+wa la tudaddu fi hukmika \ 
+
+wa la yataridu alayka ahadun fi tadbirika \ 
+
+laka alkhalqu wal-amru \ 
+
+tabaraka allahu rabbu alalamina 
 
 ya rabbi hadha maqamu man ladha bika 
 
 wastajara bikaramika 
 
-wa alifa ihsanaka wa niamaka \ wa anta aljawadu alladhi la yadiqu afwuka 
+wa alifa ihsanaka wa niamaka \ 
+
+wa anta aljawadu alladhi la yadiqu afwuka 
 
 wa la yanqusu fadluka 
 
@@ -3005,33 +3215,95 @@ afaturaka ya rabbi tukhlifu zununana aw tukhayyibu amalana
 
 kalla ya karimu falaysa hadha zannuna bika 
 
-wa la hadha fika tamauna \ ya rabbi inna lana fika amalan tawilan kathiran \ inna lana fika raja'an aziman 
+wa la hadha fika tamauna \ 
+
+ya rabbi inna lana fika amalan tawilan kathiran \ 
+
+inna lana fika raja'an aziman 
 
 asaynaka wa nahnu narju an tastura alayna 
 
-wa daawnaka wa nahnu narju an tastajiba lana \ fahaqqiq raja'ana mawlana \ faqad alimna ma tastawjibu bi'amalina \ wa lakin ilmuka fina wa ilmuna bi'annaka la tasrifuna anka 
+wa daawnaka wa nahnu narju an tastajiba lana \ 
 
-haththana ala alrraghbati ilayka \ wa in kunna ghayra mustawjibina lirahmatika \ fa'anta ahlun an tajuda alayna wa ala almudhnibina bifadli saatika 
+fahaqqiq raja'ana mawlana \ 
 
-famnun alayna bima anta ahluhu \ wa jud alayna fa'inna muhtajuna ila naylika 
+faqad alimna ma tastawjibu bi'amalina \ 
+
+wa lakin ilmuka fina wa ilmuna bi'annaka la tasrifuna anka 
+
+haththana ala alrraghbati ilayka \ 
+
+wa in kunna ghayra mustawjibina lirahmatika \ 
+
+fa'anta ahlun an tajuda alayna wa ala almudhnibina bifadli saatika 
+
+famnun alayna bima anta ahluhu \ 
+
+wa jud alayna fa'inna muhtajuna ila naylika 
 
 ya ghaffaru binurika ihtadayna 
 
 wa bifadlika istaghnayna 
 
-wa binimatika asbahna wa amsayna \ dhunubuna bayna yadayka \ nastaghfiruka alllahumma minha wa natubu ilayka \ tatahabbabu ilayna bilnniami wa nuariduka bildhdhunubi \ khayruka nazilun ilayna \ wa sharruna ilayka saidun 
+wa binimatika asbahna wa amsayna \ 
+
+dhunubuna bayna yadayka \ 
+
+nastaghfiruka alllahumma minha wa natubu ilayka \
+
+tatahabbabu ilayna bilnniami wa nuariduka bildhdhunubi \ 
+
+khayruka nazilun ilayna \ 
+
+wa sharruna ilayka saidun 
 
 wa lam yazal wa la yazalu malakun karimun ya'tika anna biamalin qabihin 
 
 fala yamnaunka dhalika min an tahutana biniamika 
 
-wa tatafaddalu alyna bi'ala'ika \ fasubhanaka ma ahlamaka wa azamaka 
+wa tatafaddalu alyna bi'ala'ika \ 
 
-wa akramaka mubdi'an wa muidan \ taqaddasat asma'uka \ wa jalla thana'uka \ wa karuma sana'iuka wa fialuka \ anta ilahi awsau fadlan wa azamu hilman \ min an tuqayisani bifili wa khati'ati 
+fasubhanaka ma ahlamaka wa azamaka 
 
-falafwa alafwa alafwa \ sayyidi sayyidi sayyidi \ allahumma ashghilna bidhikrika \ wa aidhna min sakhatika 
+wa akramaka mubdi'an wa muidan \ 
 
-wa ajirna min adhabika \ warzuqna min mawahibika \ wa anin alayna min fadlika \ warzuqna hajja baytika \ wa ziyarata qabri nabiyyika \ salawatuka wa rahmatuka \ wa maghfiratuka wa ridwanuka alayhi wa ala ahli baytihi \ innaka qaribun mujibun \ warzuqna amalan bitaatika \ wa tawaffana ala millatika wa sunnati nabiyyika 
+taqaddasat asma'uka \ 
+
+wa jalla thana'uka \ 
+
+wa karuma sana'iuka wa fialuka \ 
+
+anta ilahi awsau fadlan wa azamu hilman \ 
+
+min an tuqayisani bifili wa khati'ati 
+
+falafwa alafwa alafwa \ 
+
+sayyidi sayyidi sayyidi \ 
+
+allahumma ashghilna bidhikrika \ 
+
+wa aidhna min sakhatika 
+
+wa ajirna min adhabika \
+
+warzuqna min mawahibika \ 
+
+wa anin alayna min fadlika \
+
+warzuqna hajja baytika \
+
+wa ziyarata qabri nabiyyika \
+
+salawatuka wa rahmatuka \
+
+wa maghfiratuka wa ridwanuka alayhi wa ala ahli baytihi \ 
+
+innaka qaribun mujibun \ 
+
+warzuqna amalan bitaatika \ 
+
+wa tawaffana ala millatika wa sunnati nabiyyika 
 
 salla allahu alayhi wa ala alihi 
 
@@ -3047,15 +3319,37 @@ allahumma ighfir lilmu'minina walmu'minati
 
 al-ahya'i minhum wal-amwati 
 
-wa tabi baynana wa baynahum bilkhayrati \ allahumma ighfir lihayyina wa mayyitina \ wa shahidina wa gha'ibina \ dhakarina wa unthana \ saghirina wa kabirina \ hurrina wa mamlukina \ kadhaba aladiluna billahi 
+wa tabi baynana wa baynahum bilkhayrati \ 
 
-wa dallu dalalan baidan \ wa khasiru khusranan mubinan \ allahumma salli ala muhammadin wa ali muhammadin 
+allahumma ighfir lihayyina wa mayyitina \ 
+
+wa shahidina wa gha'ibina \
+
+dhakarina wa unthana \ 
+
+saghirina wa kabirina \ 
+
+hurrina wa mamlukina \ 
+
+kadhaba aladiluna billahi 
+
+wa dallu dalalan baidan \
+
+wa khasiru khusranan mubinan \
+
+allahumma salli ala muhammadin wa ali muhammadin 
 
 wakhtim li bikhayrin 
 
 wa ikfini ma ahammani min amri dunyaya wa akhirati 
 
-wa la tusallit alayya man la yarhamuni \ wajal alayya minka waqiyatan baqiyatan \ wa la taslubni saliha ma anamta bihi alayya \ warzuqni min fadlika rizqan wasian halalan tayyiban 
+wa la tusallit alayya man la yarhamuni \ 
+
+wajal alayya minka waqiyatan baqiyatan \
+
+wa la taslubni saliha ma anamta bihi alayya \
+
+warzuqni min fadlika rizqan wasian halalan tayyiban 
 
 allahumma ihrusni biharasatika 
 
@@ -3067,11 +3361,21 @@ warzuqni hajja baytika alharami
 
 fi amina hadha wa fi kulli amin 
 
-wa ziyarata qabri nabiyyika wal-a'immati alayhim alssalamu \ wa la tukhlini ya rabbi min tilka almashahidi alshsharifati \ walmawaqifi alkarimati \ allahumma tub alayya hatta la asiyaka \ wa alhimni alkhayra wa alamala bihi 
+wa ziyarata qabri nabiyyika wal-a'immati alayhim alssalamu \
+
+wa la tukhlini ya rabbi min tilka almashahidi alshsharifati \ 
+
+walmawaqifi alkarimati \ 
+
+allahumma tub alayya hatta la asiyaka \ 
+
+wa alhimni alkhayra wa alamala bihi 
 
 wa khashyataka billayli wa alnnahari ma abqaytani 
 
-ya rabba alalamina \ allahumma inni kullama qultu qad tahayya'tu wa taabba'tu 
+ya rabba alalamina \ 
+
+allahumma inni kullama qultu qad tahayya'tu wa taabba'tu 
 
 wa qumtu lilssalati bayna yadayka wa najaytuka 
 
@@ -3083,21 +3387,59 @@ mali kullama qultu qad saluhat sarirati
 
 wa qaruba min majalisi alttawwabina majlisi 
 
-aradat li baliyyatun azalat qadami wa halat bayni wa bayna khidmatika \ sayyidi laallaka an babika taradtani \ wa an khidmatika nahhaytani 
+aradat li baliyyatun azalat qadami wa halat bayni wa bayna khidmatika \ 
 
-aw laallaka ra'aytani mustakhiffan bihaqqika fa'aqsaytani \ aw laallaka ra'aytani muridan anka faqalaytani 
+sayyidi laallaka an babika taradtani \ 
 
-aw laallaka wajadtani fi maqami alkadhibina farafadtani \ aw laallaka ra'aytani ghayra shakirin linama'ika faharamtani \ aw laallaka faqadtani min majalisi alulama'i fakhadhaltani \ aw laallaka ra'aytani filghafilina famin rahmatika ayastani 
+wa an khidmatika nahhaytani 
 
-aw laallaka ra'aytani alafu majalisa albattalina fabayni wa baynahum khallaytani \ aw laallaka lam tuhibba an tasmaa dua'i fabaadtani \ aw laallaka bijurmi wa jarirati kafaytani 
+aw laallaka ra'aytani mustakhiffan bihaqqika fa'aqsaytani \ 
 
-aw laallaka biqillati haya'i minka jazaytani \ fa'in afawta ya rabbi fatalama afawta an almudhnibina qabli 
+aw laallaka ra'aytani muridan anka faqalaytani 
 
-li'anna karamaka ay rabbi yajillu an mukafati almuqassirina \ wa ana a'idhun bifadlika haribun minka ilayka 
+aw laallaka wajadtani fi maqami alkadhibina farafadtani \ 
+
+aw laallaka ra'aytani ghayra shakirin linama'ika faharamtani \ 
+
+aw laallaka faqadtani min majalisi alulama'i fakhadhaltani \ 
+
+aw laallaka ra'aytani filghafilina famin rahmatika ayastani 
+
+aw laallaka ra'aytani alafu majalisa albattalina fabayni wa baynahum khallaytani \ 
+
+aw laallaka lam tuhibba an tasmaa dua'i fabaadtani \ 
+
+aw laallaka bijurmi wa jarirati kafaytani 
+
+aw laallaka biqillati haya'i minka jazaytani \ 
+
+fa'in afawta ya rabbi fatalama afawta an almudhnibina qabli 
+
+li'anna karamaka ay rabbi yajillu an mukafati almuqassirina \ 
+
+wa ana a'idhun bifadlika haribun minka ilayka 
 
 mutanajjizun ma waadta min alssafhi amman ahsana bika zannan 
 
-ilahi anta awsau fadlan \ wa azamu hilman min an tuqayisani biamali \ aw an tastazillani bikhati'ati \ wa ma ana ya sayyidi wa ma khatari \ habni bifadlika sayyidi \ wa tasaddaq alayya biafwika \ wa jallilni bisitrika \ wafu an tawbikhi bikarami wajhika \ sayyidi ana alssaghiru alladhi rabbaytahu \ wa ana aljahilu alladhi allamtahu 
+ilahi anta awsau fadlan \ 
+
+wa azamu hilman min an tuqayisani biamali \ 
+
+aw an tastazillani bikhati'ati \
+
+wa ma ana ya sayyidi wa ma khatari \ 
+
+habni bifadlika sayyidi \
+
+wa tasaddaq alayya biafwika \
+
+wa jallilni bisitrika 
+
+\ wafu an tawbikhi bikarami wajhika 
+
+\ sayyidi ana alssaghiru alladhi rabbaytahu \
+
+wa ana aljahilu alladhi allamtahu 
 
 wa ana alddallu alladhi hadaytahu 
 
@@ -3107,15 +3449,27 @@ wa ana alkha'ifu alladhi amantahu
 
 walja'iu alladhi ashbatahu 
 
-walatshanu alladhi arwaytahu \ walari alladhi kasawtahu 
+walatshanu alladhi arwaytahu \ 
+
+walari alladhi kasawtahu 
 
 walfaqiru alladhi aghnaytahu 
 
-walddaifu alladhi qawwaytahu \ waldhdhalilu alladhi azaztahu 
+walddaifu alladhi qawwaytahu \
+
+waldhdhalilu alladhi azaztahu 
 
 walssaqimu alladhi shafaytahu 
 
-walssa'ilu alladhi ataytahu \ walmudhnibu alladhi satartahu \ walkhati'u alladhi aqaltahu \ wa ana alqalilu alladhi kaththartahu \ walmustadafu alladhi nasartahu 
+walssa'ilu alladhi ataytahu \
+
+walmudhnibu alladhi satartahu \
+
+walkhati'u alladhi aqaltahu \ 
+
+wa ana alqalilu alladhi kaththartahu \ 
+
+walmustadafu alladhi nasartahu 
 
 wa ana alttaridu alladhi awaytahu 
 
@@ -3123,19 +3477,49 @@ ana ya rabbi alladhi lam astahyika fi alkhala'i
 
 wa lam uraqibka fi almala'i 
 
-ana sahibu alddawahi aluzma \ ana alladhi ala sayyidihi ijtara'a 
+ana sahibu alddawahi aluzma \
 
-ana alladhi asaytu jabbara alssama'a \ ana alladhi ataytu ala maasi aljalili alrrisha 
+ana alladhi ala sayyidihi ijtara'a 
 
-ana alladhi hina bushshirtu biha kharajtu ilayha asa \ ana alladhi amhaltani fama irawaytu 
+ana alladhi asaytu jabbara alssama'a \ 
 
-wa satarta alayya fama istahyaytu \ wa amiltu bilmaasi fataaddaytu 
+ana alladhi ataytu ala maasi aljalili alrrisha 
 
-wa asqattani min aynika fama balaytu \ fabihilmika amhaltani \ wa bisitrika satartani hatta ka'annaka aghfaltani \ wa min uqubati almaasi jannabtani hatta ka'annaka istahyaytani \ ilahi lam asika hina asaytuka wa ana birububiyyatika jahidun \ wa la bi-amrika mustakhiffun \ wa la liuqubatika mutaarridun \ wa la liwaidika mutahawinun 
+ana alladhi hina bushshirtu biha kharajtu ilayha asa \ 
 
-lakin khati'atun aradat wa sawwalat li nafsi \ wa ghalabani hawaya \ wa aanani alayha shiqwati \ wa gharrani sitruka almurkha alayya 
+ana alladhi amhaltani fama irawaytu 
 
-faqad asaytuka wa khalaftuka bijuhdi \ fal'ana min adhabika man yastanqidhuni 
+wa satarta alayya fama istahyaytu \ 
+
+wa amiltu bilmaasi fataaddaytu 
+
+wa asqattani min aynika fama balaytu \ 
+
+fabihilmika amhaltani \ 
+
+wa bisitrika satartani hatta ka'annaka aghfaltani \ 
+
+wa min uqubati almaasi jannabtani hatta ka'annaka istahyaytani \
+
+ilahi lam asika hina asaytuka wa ana birububiyyatika jahidun \
+
+wa la bi-amrika mustakhiffun \
+
+wa la liuqubatika mutaarridun \ 
+
+wa la liwaidika mutahawinun 
+
+lakin khati'atun aradat wa sawwalat li nafsi \
+
+wa ghalabani hawaya \ 
+
+wa aanani alayha shiqwati \ 
+
+wa gharrani sitruka almurkha alayya 
+
+faqad asaytuka wa khalaftuka bijuhdi \
+
+fal'ana min adhabika man yastanqidhuni 
 
 wa min aydi alkhusama'i ghadan man yukhallisuni 
 
@@ -3143,7 +3527,23 @@ wa bihabli man attasilu in anta qatata hablaka anni
 
 fa wa saw'ata ala ma ahsa kitabuka min amaliya alladhi 
 
-lawla ma arju min karamika wa saati rahmatika \ wa nahyika iyyaya an alqunuti laqanattu indama atadhakkaruha \ ya khayra man daahu dain \ wa afdala man rajahu rajin \ allahumma bidhimmati al-islami atawassalu ilayka \ wa bihurmati alqur'ani atamidu alayka \ wa bihubbi alnnabiyya al-ummiyya \ alqurashiyya alhashimiyya \ alarabiyya alttuhamiyya 
+lawla ma arju min karamika wa saati rahmatika \ 
+
+wa nahyika iyyaya an alqunuti laqanattu indama atadhakkaruha \
+
+ya khayra man daahu dain \ 
+
+wa afdala man rajahu rajin \
+
+allahumma bidhimmati al-islami atawassalu ilayka \ 
+
+wa bihurmati alqur'ani atamidu alayka \ 
+
+wa bihubbi alnnabiyya al-ummiyya \ 
+
+alqurashiyya alhashimiyya \
+
+alarabiyya alttuhamiyya 
 
 almakkiyya almadaniyya 
 
@@ -3163,51 +3563,125 @@ fa'adrikna ma ammalna
 
 wa thabbit raja'aka fi sudurina 
 
-wa la tuzigh qulubana bada idh hadaytana \ wa hab lana min ladunka rahmatan \ innaka anta alwahhabu \ fawaizzatika law intahartani ma barihtu min babika 
+wa la tuzigh qulubana bada idh hadaytana \ 
 
-wa la kafaftu an tamalluqika \ lima ulhima qalbi min almarifati bikaramika wa saati rahmatika \ ila man yadhhabu alabdul illa ila mawlahu 
+wa hab lana min ladunka rahmatan \ 
+
+innaka anta alwahhabu \
+
+fawaizzatika law intahartani ma barihtu min babika 
+
+wa la kafaftu an tamalluqika \ 
+
+lima ulhima qalbi min almarifati bikaramika wa saati rahmatika \ 
+
+
+ila man yadhhabu alabdul illa ila mawlahu 
 
 wa ila man yaltaji'u almakhluqu illa ila khaliqihi 
 
 ilahi law qarantani bil-asfadi 
 
-wa manatani saybaka min bayni al-ashhadi \ wa dalalta ala fada'ihi uyuna alibadi 
+wa manatani saybaka min bayni al-ashhadi \ 
+
+
+wa dalalta ala fada'ihi uyuna alibadi 
 
 wa amarta bi ila alnnari 
 
 wa hulta bayni wa bayna al-abrari 
 
-ma qatatu raja'i minka \ wa ma saraftu ta'mili lilafwi anka \ wa la kharaja hubbuka min qalbi \ ana la ansa ayadiyaka indi 
+ma qatatu raja'i minka \
 
-wa sitraka alayya fi dari alddunya \ sayyidi akhrij hubba alddunya min qalbi \ wa ijma bayni wa bayna almustafa wa alihi 
+wa ma saraftu ta'mili lilafwi anka \
+
+wa la kharaja hubbuka min qalbi \ 
+
+ana la ansa ayadiyaka indi 
+
+wa sitraka alayya fi dari alddunya \ 
+
+sayyidi akhrij hubba alddunya min qalbi \
+
+wa ijma bayni wa bayna almustafa wa alihi 
 
 khiyaratika min khalqika wa khatami alnnabiyyina 
 
-muhammadin salla allahu alyhi wa alihi \ wanqulni ila darajati alttawbati ilayka \ wa ainni bilbuka'i ala nafsi faqad afnaytu umuri 
+muhammadin salla allahu alyhi wa alihi \
+
+wanqulni ila darajati alttawbati ilayka \ 
+
+wa ainni bilbuka'i ala nafsi faqad afnaytu umuri 
 
 wa qad nazaltu manzilata al-ayisina min khayri 
 
 faman yakunu aswa'a halan minni 
 
-in ana nuqiltu ala mithli hali ila qabrin \ lam umahhid-hu liraqdati \ wa lam afrishhu bilamali alssalihi lidajati \ wa mali la abki \ wa la adri ila ma yakunu masiri \ wa ara nafsi tukhadiuni 
+in ana nuqiltu ala mithli hali ila qabrin \ 
+
+lam umahhid-hu liraqdati \
+
+wa lam afrishhu bilamali alssalihi lidajati \
+
+wa mali la abki \ 
+
+wa la adri ila ma yakunu masiri \
+
+wa ara nafsi tukhadiuni 
 
 wa ayyami tukhatiluni 
 
-wa qad khafaqat inda ra'si ajnihatu almawti \ famali la abki \ abki likhuruji nafsi \ abki lizulmati qabri \ abki lidiqi lahdi \ abki lisu'ali munkarin wa nakirin iyyaya \ abki likhuruji min qabri uryanan dhalilan 
+wa qad khafaqat inda ra'si ajnihatu almawti \
 
-hamilan thiqli ala zahri \ anzuru marratan an yamini wa ukhra an shimali \ idh alkhala'iqu fi sha'nin ghayri sha'ni \ likulli imri'in minhum yawma'idhin sha'nun yughnihi \ wujuhun yawma'idhin musfiratun dahikatun mustabshiratun \ wa wujuhun yawma'idhin alayha ghabaratun tarhaquha qataratun wa dhillatun 
+famali la abki \
 
-sayyidi alayka muawwali wa mutamadi \ wa raja'i wa tawakkuli \ wa birahmatika taalluqi 
+abki likhuruji nafsi \
+
+abki lizulmati qabri \ 
+
+abki lidiqi lahdi \
+
+abki lisu'ali munkarin wa nakirin iyyaya \
+
+abki likhuruji min qabri uryanan dhalilan 
+
+hamilan thiqli ala zahri \
+
+anzuru marratan an yamini wa ukhra an shimali \ 
+
+idh alkhala'iqu fi sha'nin ghayri sha'ni \ 
+
+likulli imri'in minhum yawma'idhin sha'nun yughnihi \ 
+
+wujuhun yawma'idhin musfiratun dahikatun mustabshiratun \
+
+wa wujuhun yawma'idhin alayha ghabaratun tarhaquha qataratun wa dhillatun 
+
+sayyidi alayka muawwali wa mutamadi \ 
+
+wa raja'i wa tawakkuli \ 
+
+wa birahmatika taalluqi 
 
 tusibu birahmatika man tasha'u 
 
 wa tahdi bikaramatika man tuhibbu 
 
-falaka alhamdu ala ma naqqayta min alshshirki qalbi \ wa laka alhamdu ala basti lisani 
+falaka alhamdu ala ma naqqayta min alshshirki qalbi \ 
+
+wa laka alhamdu ala basti lisani 
 
 afabilisani hadha alkalli ashkuruka 
 
-am bighayati juhdi fi amali urdika \ wa ma qadru lisani ya rabbi fi janbi shukrika \ wa ma qadru amali fi janbi niamika wa ihsanika \ ilahi inna judaka basata amali \ wa shukraka qabila amali 
+am bighayati juhdi fi amali urdika \ 
+
+wa ma qadru lisani ya rabbi fi janbi shukrika \ 
+
+wa ma qadru amali fi janbi niamika wa ihsanika \ 
+
+ilahi inna judaka basata amali \
+
+wa shukraka qabila amali 
 
 sayyidi ilayka raghbati 
 
@@ -3219,9 +3693,19 @@ wa qad saqani ilayka amali
 
 wa alayka ya wahidi akaftu himmati 
 
-wa fima indaka inbasatat raghbati \ wa laka khalisu raja'i wa khawfi \ wa bika anisat mahabbati \ wa ilayka alqaytu biyadi \ wa bihabli taatika madadtu rahbati 
+wa fima indaka inbasatat raghbati \ 
 
-ya mawlaya bidhikrika asha qalbi \ wa bimunajatika barradtu alama alkhawfi anni 
+wa laka khalisu raja'i wa khawfi \ 
+
+wa bika anisat mahabbati \ 
+
+wa ilayka alqaytu biyadi \ 
+
+wa bihabli taatika madadtu rahbati 
+
+ya mawlaya bidhikrika asha qalbi \ 
+
+wa bimunajatika barradtu alama alkhawfi anni 
 
 faya mawlaya wa ya mu'ammali wa ya muntaha su'li 
 
@@ -3231,35 +3715,69 @@ fa'innama as'aluka liqadimi alrraja'i fika
 
 wa azimi alttamai minka 
 
-alladhi awjabtahu ala nafsika min alrra'fati walrrahmati \ fal-amru laka wahdaka la sharika laka \ walkhalqu kulluhum iyaluka wa fi qabdatika 
+alladhi awjabtahu ala nafsika min alrra'fati walrrahmati \
 
-wa kullu shay'in khadiun laka \ tabarakta ya rabba alalamina 
+fal-amru laka wahdaka la sharika laka \ 
 
-ilahi irhamni idha inqataat hujjati \ wa kalla an jawabika lisani 
+walkhalqu kulluhum iyaluka wa fi qabdatika 
 
-wa tasha inda su'alika iyyaya lubbi \ faya azima raja'i la tukhayyibni idha ishtaddat faqati 
+wa kullu shay'in khadiun laka \ 
+
+tabarakta ya rabba alalamina 
+
+ilahi irhamni idha inqataat hujjati \ 
+
+wa kalla an jawabika lisani 
+
+wa tasha inda su'alika iyyaya lubbi \ 
+
+faya azima raja'i la tukhayyibni idha ishtaddat faqati 
 
 wa la taruddani lijahli 
 
-wa la tamnani liqillati sabri \ atini lifaqri 
+wa la tamnani liqillati sabri \ 
 
-warhamni lidafi \ sayyidi alayka mutamadi wa muawwali 
+atini lifaqri 
+
+warhamni lidafi \ 
+
+sayyidi alayka mutamadi wa muawwali 
 
 wa raja'i wa tawakkuli 
 
-wa birahmatika taalluqi \ wa bifina'ika ahuttu rahli \ wa bijudika aqsidu talibati \ wa bikaramika ay rabbi astaftihu dua'i 
+wa birahmatika taalluqi \ 
+
+wa bifina'ika ahuttu rahli \ 
+
+wa bijudika aqsidu talibati \ 
+
+wa bikaramika ay rabbi astaftihu dua'i 
 
 wa ladayka arju faqati 
 
-wa bighinaka ajburu aylati \ wa tahta zilli afwika qiyami 
+wa bighinaka ajburu aylati \ 
 
-wa ila judika wa karamika arfau basari \ wa ila marufika udimu nazari 
+wa tahta zilli afwika qiyami 
 
-fala tuhriqni bilnnari wa anta mawdiu amali \ wa la tuskinni alhawiyata fa'innaka qurratu ayni 
+wa ila judika wa karamika arfau basari \ 
 
-ya sayyidi la tukadhdhib zanni bi'ihsanika wa marufika \ fa'innaka thiqati \ wa la tahrimni thawabaka \ fa'innaka alarifu bifaqri 
+wa ila marufika udimu nazari 
 
-ilahi in kana qad dana ajali wa lam yuqarribni minka amali \ faqad jaaltu alitirafa ilayka bidhanbi wasa'ila ilali 
+fala tuhriqni bilnnari wa anta mawdiu amali \ 
+
+wa la tuskinni alhawiyata fa'innaka qurratu ayni 
+
+ya sayyidi la tukadhdhib zanni bi'ihsanika wa marufika \ 
+
+fa'innaka thiqati \ 
+
+wa la tahrimni thawabaka \ 
+
+fa'innaka alarifu bifaqri 
+
+ilahi in kana qad dana ajali wa lam yuqarribni minka amali \ 
+
+faqad jaaltu alitirafa ilayka bidhanbi wasa'ila ilali 
 
 ilahi in afawta faman awla minka bilafwi 
 
@@ -3267,15 +3785,51 @@ wa in adhdhabta faman adalu minka fi allhukmi
 
 irham fi hadhihi alddunya ghurbati 
 
-wa inda almawti kurbati \ wa fi alqabri wahdati \ wa fi allahdi wahshati \ wa idha nushirtu lilhisabi bayna yadayka dhulla mawqifi \ waghfir li ma khafiya ala al-adamiyyina min amali \ wa adim li ma bihi satartani \ warhamni sarian ala alfirashi tuqallibuni aydi ahibbati \ wa tafaddal alayya mamdudan ala almughtasali yuqallibuni salihu jirati \ wa tahannan alayya mahmulan qad tanawala al-aqriba'u atrafa janazati 
+wa inda almawti kurbati \ 
 
-wa jud alayya manqulan qad nazaltu bika wahidan fi hufrati \ warham fi dhalika albayti aljadidi ghurbati hatta la asta'nisa bighayrika \ ya sayyidi in wakaltani ila nafsi halaktu \ sayyidi fabiman astaghithu in lam tuqilni athrati 
+wa fi alqabri wahdati \ 
 
-fa'ila man afzau in faqadtu inayataka fi dajati \ wa'ila man altaji'u in lam tunaffis kurbati \ sayyidi man li \ wa man yarhamuni in lam tarhamni \ wa fadla man u'ammilu in adimtu fadlaka yawma faqati 
+wa fi allahdi wahshati \ 
+
+wa idha nushirtu lilhisabi bayna yadayka dhulla mawqifi \ 
+
+waghfir li ma khafiya ala al-adamiyyina min amali \ 
+
+wa adim li ma bihi satartani \ 
+
+warhamni sarian ala alfirashi tuqallibuni aydi ahibbati \ 
+
+wa tafaddal alayya mamdudan ala almughtasali yuqallibuni salihu jirati \ 
+
+wa tahannan alayya mahmulan qad tanawala al-aqriba'u atrafa janazati 
+
+wa jud alayya manqulan qad nazaltu bika wahidan fi hufrati \ 
+
+warham fi dhalika albayti aljadidi ghurbati hatta la asta'nisa bighayrika \ 
+
+ya sayyidi in wakaltani ila nafsi halaktu \ 
+
+sayyidi fabiman astaghithu in lam tuqilni athrati 
+
+fa'ila man afzau in faqadtu inayataka fi dajati \ 
+
+wa'ila man altaji'u in lam tunaffis kurbati \ 
+
+sayyidi man li \ 
+
+wa man yarhamuni in lam tarhamni \ 
+
+wa fadla man u'ammilu in adimtu fadlaka yawma faqati 
 
 wa'ila man alfararu min aldhdhunubi idha inqada ajali 
 
-sayyidi la tuadhdhibni wa ana arjuka \ ilahi haqqiq raja'i \ wa amin khawfi \ fa'inna kathrata dhunubi la arju fiha illa afwaka 
+sayyidi la tuadhdhibni wa ana arjuka \ 
+
+ilahi haqqiq raja'i \ 
+
+wa amin khawfi \ 
+
+fa'inna kathrata dhunubi la arju fiha illa afwaka 
 
 sayyidi ana as'aluka ma la astahiqqu 
 
@@ -3287,9 +3841,19 @@ wa taghfiruha li wa la utalabu biha
 
 innaka dhu mannin qadimin 
 
-wa safhin azimin \ wa tajawuzin karimin \ ilahi anta alladhi tufidu saybaka ala man la yas'aluka 
+wa safhin azimin \ 
 
-wa ala aljahidina birububiyyatika \ fakayfa sayyidi biman sa'alaka wa ayqana anna alkhalqa laka wal-amra ilayka \ tabarakta wa taalayta ya rabba alalamina \ sayyidi abduka bibabika aqamat-hu alkhasasatu bayna yadayka 
+wa tajawuzin karimin \ 
+
+ilahi anta alladhi tufidu saybaka ala man la yas'aluka 
+
+wa ala aljahidina birububiyyatika \ 
+
+fakayfa sayyidi biman sa'alaka wa ayqana anna alkhalqa laka wal-amra ilayka \ 
+
+tabarakta wa taalayta ya rabba alalamina \ 
+
+sayyidi abduka bibabika aqamat-hu alkhasasatu bayna yadayka 
 
 yaqrau baba ihsanika bidua'ihi 
 
@@ -3297,27 +3861,65 @@ fala turid biwajhika alkarimi anni
 
 waqbal minni ma aqulu faqad daawtu bihadha alddua'i 
 
-wa ana arju an la taruddani marifatan minni bira'fatika wa rahmatika \ ilahi anta alladhi la yuhfika sa'ilun \ wa la yanqusuka na'ilun \ anta kama taqulu wa fawqa ma naqulu \ allahumma inni as'aluka sabran jamilan \ wa farajan qariban \ wa qawlan sadiqan \ wa ajran aziman 
+wa ana arju an la taruddani marifatan minni bira'fatika wa rahmatika \ 
+
+ilahi anta alladhi la yuhfika sa'ilun \ 
+
+wa la yanqusuka na'ilun \ 
+
+anta kama taqulu wa fawqa ma naqulu \ 
+
+allahumma inni as'aluka sabran jamilan \ 
+
+wa farajan qariban \ 
+
+wa qawlan sadiqan \ 
+
+wa ajran aziman 
 
 as'aluka ya rabbi min alkhayri kullihi 
 
 ma alimtu minhu wa ma lam alam 
 
-as'aluka allahumma min khayri ma sa'alaka minhu ibaduka alssalihuna \ ya khayra man su'ila \ wa ajwada man ata 
+as'aluka allahumma min khayri ma sa'alaka minhu ibaduka alssalihuna \ 
 
-atini su'li fi nafsi wa ahli \ wa walidayya wa wuldi \ wa ahli huzanati wa ikhwani fika \ wa arghid ayshi 
+ya khayra man su'ila \ 
+
+wa ajwada man ata 
+
+atini su'li fi nafsi wa ahli \ 
+
+wa walidayya wa wuldi \ 
+
+wa ahli huzanati wa ikhwani fika \ 
+
+wa arghid ayshi 
 
 wa azhir muruwwati 
 
-wa aslih jamia ahwali \ wajalni mimman atalta umrahu \ wa hassanta amalahu 
+wa aslih jamia ahwali \ 
 
-wa atmamta alayhi nimataka wa radita anhu \ wa ahyaytahu hayatan tayyibatan fi adwami alssururi \ wa asbaghi alkaramati wa atammi alayshi 
+wajalni mimman atalta umrahu \ 
 
-innaka tafalu ma tasha'u \ wa la yafalu ma yasha'u ghayruka 
+wa hassanta amalahu 
+
+wa atmamta alayhi nimataka wa radita anhu \ 
+
+wa ahyaytahu hayatan tayyibatan fi adwami alssururi \ 
+
+wa asbaghi alkaramati wa atammi alayshi 
+
+innaka tafalu ma tasha'u \ 
+
+wa la yafalu ma yasha'u ghayruka 
 
 allahumma khussani minka bikhassati dhikrika 
 
-wa la tajal shay'an mimma ataqarrabu bihi \ fi ana'i allayli wa atrafi alnnahari \ riya'an wa la sumatan 
+wa la tajal shay'an mimma ataqarrabu bihi \ 
+
+fi ana'i allayli wa atrafi alnnahari \ 
+
+riya'an wa la sumatan 
 
 wa la asharan wa la bataran 
 
@@ -3327,9 +3929,21 @@ allahumma atini alssaata fi alrrizqi
 
 wal-amni fi alwatani 
 
-wa qurrata alayni fi al-ahli walmali walwaladi \ walmuqama fi niamika indi \ walssihhata fi aljismi \ walquwwata fi albadani \ walssalamata fi addini \ wastamilni bitaatika wa taati rasulika 
+wa qurrata alayni fi al-ahli walmali walwaladi \ 
 
-muhammadin salla allahu alayhi wa ala alihi abadan ma istamartani \ wajalni min awfari ibadika indaka nasiban 
+walmuqama fi niamika indi \ 
+
+walssihhata fi aljismi \ 
+
+walquwwata fi albadani \ 
+
+walssalamata fi addini \ 
+
+wastamilni bitaatika wa taati rasulika 
+
+muhammadin salla allahu alayhi wa ala alihi abadan ma istamartani \ 
+
+wajalni min awfari ibadika indaka nasiban 
 
 fi kulli khayrin anzaltahu wa tunziluhu fi shahri ramadana 
 
@@ -3337,15 +3951,29 @@ fi laylati alqadri
 
 wa ma anta munziluhu fi kulli sanatin min rahmatin tunshiruha 
 
-wa afiyatin tulbisuha \ wa baliyyatin tadfauha 
+wa afiyatin tulbisuha \ 
+
+wa baliyyatin tadfauha 
 
 wa hasanatin tataqabbaluha 
 
-wa sayyi'atin tatajawazu anha \ warzuqni hajja baytika alharami fi amina hadha wa fi kulli amin \ warzuqni rizqan wasian min fadlika alwasii \ wasrif anni ya sayyidi al-aswa'a 
+wa sayyi'atin tatajawazu anha \ 
 
-waqdi anni alddayna walzzulamati hatta la ata'adhadha bishay'in minhu \ wa khudh anni bi'asmai wa'absari ada'i wa hussadi walbaghina alayya \ wansurni alayhim 
+warzuqni hajja baytika alharami fi amina hadha wa fi kulli amin \ 
 
-wa aqirra ayni wa farrih qalbi \ wajal li min hammi wa karbi farajan wa makhrajan 
+warzuqni rizqan wasian min fadlika alwasii \ 
+
+wasrif anni ya sayyidi al-aswa'a 
+
+waqdi anni alddayna walzzulamati hatta la ata'adhadha bishay'in minhu \ 
+
+wa khudh anni bi'asmai wa'absari ada'i wa hussadi walbaghina alayya \
+
+wansurni alayhim 
+
+wa aqirra ayni wa farrih qalbi \
+
+wajal li min hammi wa karbi farajan wa makhrajan 
 
 wajal man aradani bisu'in min jamii khalqika tahta qadamayya 
 
@@ -3357,11 +3985,31 @@ wa sayyi'ati amali \ wa tahhirni min aldhdhunubi kulliha \ wa ajirni min alnnari
 
 wa adkhilni aljannata birahmatika 
 
-wa zawwijni min alhuri alini bifadlika \ wa alhiqni bi'awliya'aka alssalihina muhammadin wa alihi \ al-abrari alttayyibina alttahirina al-akhyari \ salawatuka alayhim wa ala ajsadihim wa arwahihim wa rahmatu allahi wa barakatuhu \ ilahi wa sayyidi wa izzatika wa jalalika 
+wa zawwijni min alhuri alini bifadlika \ 
 
-la'in talabtani bidhunubi la'utalibannaka biafwika \ wa la'in talabtani bilu'mi la'utalibannaka bikaramika \ wa la'in adkhaltani alnnara la'ukhbiranna ahla alnnari bihubbi laka \ ilahi wa sayyidi in kunta la taghfiru illa li'awliya'ika wa ahli taatika 
+wa alhiqni bi'awliya'aka alssalihina muhammadin wa alihi \
 
-fa'ila man yafzau almudhnibuna \ wa in kunta la tukrimu illa ahla alwafa'i bika \ fabiman yastaghithu almusi'una \ ilahi in adkhaltani alnnara fafi dhalika sururu aduwwika 
+al-abrari alttayyibina alttahirina al-akhyari \ 
+
+salawatuka alayhim wa ala ajsadihim wa arwahihim wa rahmatu allahi wa barakatuhu \ 
+
+ilahi wa sayyidi wa izzatika wa jalalika 
+
+la'in talabtani bidhunubi la'utalibannaka biafwika \ 
+
+wa la'in talabtani bilu'mi la'utalibannaka bikaramika \ 
+
+wa la'in adkhaltani alnnara la'ukhbiranna ahla alnnari bihubbi laka \
+
+ilahi wa sayyidi in kunta la taghfiru illa li'awliya'ika wa ahli taatika 
+
+fa'ila man yafzau almudhnibuna \
+
+wa in kunta la tukrimu illa ahla alwafa'i bika \ 
+
+fabiman yastaghithu almusi'una \
+
+ilahi in adkhaltani alnnara fafi dhalika sururu aduwwika 
 
 wa in adkhaltani aljannata fafi dhalika sururu nabiyyika 
 
@@ -3383,57 +4031,133 @@ ya dha aljalali wal-ikrami habbib ilayya liqa'aka
 
 wa ahbib liqa'i 
 
-wajal li fi liqa'ika alrrahata walfaraja walkaramata \ allahumma alhiqni bisalihi man mada \ wajalni min salihi man baqiya wa khudh bi sabila alssalihina 
+wajal li fi liqa'ika alrrahata walfaraja walkaramata \
+
+allahumma alhiqni bisalihi man mada \
+
+wajalni min salihi man baqiya wa khudh bi sabila alssalihina 
 
 wa ainni ala nafsi bima tuinu bihi alssalihina ala anfusihim 
 
-wakhtim amali bi'ahsanihi \ wajal thawabi minhu aljannata birahmatika 
+wakhtim amali bi'ahsanihi \ 
 
-wa ainni ala salihi ma ataytani \ wa thabbitni ya rabbi wa la taruddani fi su'in istanqadhtani minhu \ ya rabba alalamina 
+wajal thawabi minhu aljannata birahmatika 
+
+wa ainni ala salihi ma ataytani \ 
+
+wa thabbitni ya rabbi wa la taruddani fi su'in istanqadhtani minhu \
+
+ya rabba alalamina 
 
 allahumma inni as'aluka imanan la ajala lahu duna liqa'ika 
 
-ahyini ma ahyaytani alayhi \ wa tawaffani idha tawaffaytani alayhi 
+ahyini ma ahyaytani alayhi \
 
-wabathni idha baathnati alayhi \ wa abri' qalbi min alrriya'i walshshakki walssumati fi dinika 
+wa tawaffani idha tawaffaytani alayhi 
 
-hatta takuna amali khalisan laka \ allahumma atini basiratan fi dinika 
+wabathni idha baathnati alayhi \
+
+wa abri' qalbi min alrriya'i walshshakki walssumati fi dinika 
+
+hatta takuna amali khalisan laka \ 
+
+allahumma atini basiratan fi dinika 
 
 wa fahman fi hukmika 
 
-wa fiqhan fi ilmika \ wa kiflayni min rahmatika \ wa waraan yahjuzuni an maasika 
+wa fiqhan fi ilmika \ 
+
+wa kiflayni min rahmatika \ 
+
+wa waraan yahjuzuni an maasika 
 
 wa bayyid wajhi binurika 
 
 wajal raghbati fima indaka 
 
-wa tawaffani fi sabilika wa ala millati rasulika \ salla allahu alayhi wa ala alihi 
+wa tawaffani fi sabilika wa ala millati rasulika \ 
 
-allahumma inni audhu bika min alkasali walfashali \ walhammi waljubni walbukhli \ walghaflati walqaswati walmaskanati \ walfaqri walfaqati \ wa kulli baliyyatin walfawahishi ma zahara minha wa ma batana \ wa audhu bika min nafsin la taqnau \ wa batnin la yashbau 
+salla allahu alayhi wa ala alihi 
 
-wa qalbin la yakhshau \ wa dua'in la yusmau \ wa amalin la yanfau \ wa audhu bika ya rabbi ala nafsi wa dini wa mali \ wa ala jamii ma razaqtani min alshshaytani alrrajimi \ innaka anta alssamiu alalimu \ allahumma innahu la yujiruni minka ahadun \ wa la ajidu min dunika multahadan \ fala tajal nafsi fi shay'in min adhabika \ wa la taruddani bihalakatin \ wa la taruddani biadhabin alimin 
+allahumma inni audhu bika min alkasali walfashali \
+
+walhammi waljubni walbukhli \ 
+
+walghaflati walqaswati walmaskanati \ 
+
+walfaqri walfaqati \ 
+
+wa kulli baliyyatin walfawahishi ma zahara minha wa ma batana \ 
+
+wa audhu bika min nafsin la taqnau \ wa batnin la yashbau 
+
+wa qalbin la yakhshau \ 
+
+wa dua'in la yusmau \ 
+
+wa amalin la yanfau \ 
+
+wa audhu bika ya rabbi ala nafsi wa dini wa mali \ 
+
+wa ala jamii ma razaqtani min alshshaytani alrrajimi \ 
+
+innaka anta alssamiu alalimu \ 
+
+allahumma innahu la yujiruni minka ahadun \ 
+
+wa la ajidu min dunika multahadan \ 
+
+fala tajal nafsi fi shay'in min adhabika \
+
+wa la taruddani bihalakatin \
+
+wa la taruddani biadhabin alimin 
 
 allahumma taqabbal minni 
 
-wa ali dhikri \ warfa darajati 
+wa ali dhikri \
+
+warfa darajati 
 
 wa huttta wizri 
 
 wa la tadhkurni bikhati'ati 
 
-wajal thawaba majlisi \ wa thawaba mantiqi \ wa thawaba dua'i ridaka waljannata 
+wajal thawaba majlisi \
+
+wa thawaba mantiqi \
+
+wa thawaba dua'i ridaka waljannata 
 
 wa atini ya rabbi jamia ma sa'altuka wa zidni min fadlika 
 
-inni ilayka raghibun ya rabba alalamina \ allahumma innaka anzalta fi kitabika an nafuwa amman zalamana \ wa qad zalamna anfusana fafu anna fa'innaka awla bidhalika minna \ wa amartana an la narudda sa'ilan an abwabina 
+inni ilayka raghibun ya rabba alalamina \ 
+
+allahumma innaka anzalta fi kitabika an nafuwa amman zalamana \ 
+
+wa qad zalamna anfusana fafu anna fa'innaka awla bidhalika minna \
+
+wa amartana an la narudda sa'ilan an abwabina 
 
 wa qad ji'tuka sa'ilan fala taruddani illa biqada'i hajati 
 
 wa amartana bil-ihsani ila ma malakat aymanuna 
 
-wa nahyu ariqqa'uka fa'atiq riqabana min alnnari \ ya mafzai inda kurbati \ wa ya ghawthi inda shiddati 
+wa nahyu ariqqa'uka fa'atiq riqabana min alnnari \
 
-ilayka fazitu \ wa bika istaghathtu wa ludhtu \ la aludhu bisiwaka \ wa la atlubu alfaraja illa minka \ fa'aghithni wa farrij anni 
+ya mafzai inda kurbati \
+
+wa ya ghawthi inda shiddati 
+
+ilayka fazitu \ 
+
+wa bika istaghathtu wa ludhtu \
+
+la aludhu bisiwaka \ 
+
+wa la atlubu alfaraja illa minka \ 
+
+fa'aghithni wa farrij anni 
 
 ya man yaqbalu alyasira wa yafu an alkathira 
 
@@ -3443,7 +4167,9 @@ innaka anta alghafuru alrrahimu
 
 allahumma inni as'aluka imanan tubashiru bihi qalbi 
 
-wa yaqinan sadiqan hatta alama annahu lan yusibani illa ma katabta li \ wa raddini min alayshi bima qasamta li 
+wa yaqinan sadiqan hatta alama annahu lan yusibani illa ma katabta li \
+
+wa raddini min alayshi bima qasamta li 
 
 ya arhama alrrahimina`
 };

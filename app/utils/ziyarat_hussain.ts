@@ -338,9 +338,13 @@ und lasse sie die unterste Stufe der Hölle erreichen
 
 
 
-  'Transliteration': `alssalamu alayka yabna rasuli allahi \ alssalamu alayka yabna amiri almu'minina 
+  'Transliteration': `alssalamu alayka yabna rasuli allahi \ 
+  
+alssalamu alayka yabna amiri almu'minina 
 
-alssalamu alayka yabna alssiddiqati alttahirati \ sayyidati nisa'i alalamina 
+alssalamu alayka yabna alssiddiqati alttahirati \ 
+
+sayyidati nisa'i alalamina 
 
 alssalamu alayka ya mawlaya ya aba abdillahi 
 
@@ -350,65 +354,48 @@ ashhadu annaka qad aqamta alssalata
 
 wa atayta alzzakata 
 
-wa amarta bilmarufi \ wa nahayta an almunkari 
+wa amarta bilmarufi \ 
+
+wa nahayta an almunkari 
 
 wa talawta alkitaba haqqa tilawatihi 
 
 wa jahadta fi allahi haqqa jihadihi 
 
-wa sabarta ala al-adha fi janbihi muhtasiban hatta ataka alyaqinu \ wa ashhadu anna alladhina khalafuka wa harabuka \ wa anna alladhina khadhaluka walladhina qataluka \ malununa ala lisani alnnabiyyi al-ummiyyi \ wa qad khaba man iftara \ laana allahu alzzalimina lakum min al-awwalina wal-akhirina 
+wa sabarta ala al-adha fi janbihi muhtasiban hatta ataka alyaqinu \ 
 
-wa daafa alayhim aladhaba al-alima \ ataytuka ya mawlaya yabna rasuli allahi \ za'iran arifan bihaqqika 
+wa ashhadu anna alladhina khalafuka wa harabuka \ 
+
+wa anna alladhina khadhaluka walladhina qataluka \ 
+
+malununa ala lisani alnnabiyyi al-ummiyyi \ 
+
+wa qad khaba man iftara \ 
+
+laana allahu alzzalimina lakum min al-awwalina wal-akhirina 
+
+wa daafa alayhim aladhaba al-alima \ 
+
+ataytuka ya mawlaya yabna rasuli allahi \ 
+
+za'iran arifan bihaqqika 
 
 muwaliyan li'awliya'ika 
 
 muadiyan li'ada'ika 
 
-mustabsiran bilhuda alladhi anta alayhi \ arifan bidalalati man khalafaka 
+mustabsiran bilhuda alladhi anta alayhi \ 
+
+arifan bidalalati man khalafaka 
 
 fashfaliinda rabbika 
 
-alssalamu alayka ya hujjata allahi fi ardihi wa sama'ihi \ salla allahu ala ruhika alttayyibi wa jasadika alttahiri 
+alssalamu alayka ya hujjata allahi fi ardihi wa sama'ihi \ 
 
-wa alayka alssalamu ya mawlaya wa rahmatu allahi wa barakatuhu \ \ ** Ziyarat von Ali al-Akbar (as) ** \ alssalamu alayka ya mawlaya wabna mawlaya 
+salla allahu ala ruhika alttayyibi wa jasadika alttahiri 
 
-wa rahmatu allahi wa barakatuhu 
+wa alayka alssalamu ya mawlaya wa rahmatu allahi wa barakatuhu \ \ 
 
-laana allahu man zalamaka \ wa laana allahu man qatalaka 
 
-wa daafa alayhim aladhaba al-alima \ \ 
-
-** Ziyarat der Märtyrer (Shohada) ** 
-
-AS SALAMO ALAIKUM YA AULIYAE ALLAHE WA AHIBBAEHU 
-
-AS SALAMO ALAIKUM YA ASFIYAAE ALLAHE WA AWIDAAEHU 
-
-AS SALAMO ALAIKUM YA ANSARA DEEN ALLAHEE 
-
-AS SALAMO ALAIKUM YA ANSARA RASOOL ALLAHEE 
-
-AS SALAMO ALAIKUM YA ANSARA AMEER UL MOMINAA 
-
-AS SALAMO ALAIKUM YA ANSARA FATIMATUZ ZEHRAE SAYYEDATUN NISSAIL ALAAMEEN 
-
-AS SALAMO ALAIKUM YA ANSAR ABI MOHAMMAD AL HASSAN IBNE ALIE WALIEE UZ ZAKIEE UN ANNASE AAMEEN 
-
-AS SALAMO ALAIKUM YA ANSARA ABI ABDILLAHE BI ABI ANTUM WA UMMI TIBTUM 
-
-WA TAABA TIL ARZUL LATI FEEHA DUFINTUM WA FUZTUM FAUZAN AZEEMAN 
-
-FAYA LAITANI KUNTU MAAKUM FAAA FUZA MAAKUM
-
-** Ziyarat von Hazrat Abbas (as) **
-
-alssalamu alayka yabna amiri almu'minina \ alssalamu alayka ayyuha alabdu alssalihu \ almutiu lillahi wa lirasulihi 
-
-ashhadu annaka qad jahadta wa nasahta 
-
-wa sabarta hatta ataka alyaqinu 
-
-la\`ana allahu alzzalimina lakum min al-awwalina wal-akhirina 
-
-wa alhaqahum bidarki aljahimi \ `
+ `
 };

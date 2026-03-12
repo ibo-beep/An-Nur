@@ -6660,7 +6660,21 @@ khallisna minan-nari ya rabb
 
 ya say-yidas-sadat 
 
-ya mujebad-daawat \ ya rafia'd-darajat \ ya wale-yal-hasanat \ ya ghafiral-khate-at \ ya mua'-ti-yal-mas-alat \ ya qabilat-taw-bat \ ya samia'l-as-wat \ ya aalimal-khafe-yat 
+ya mujebad-daawat \ 
+
+ya rafia'd-darajat 
+
+ya wale-yal-hasanat
+
+ya ghafiral-khate-at
+
+ya mua'-ti-yal-mas-alat
+
+ya qabilat-taw-bat \
+
+ya samia'l-as-wat
+
+ya aalimal-khafe-yat 
 
 ya dafia'l-bale-yat 
 
@@ -6700,7 +6714,13 @@ khallisna minan-nari ya rabb
 
 (4) 
 
-ya mal-lahul-iiz-zatu wal-jamal \ ya mal-lahul-qud-ratu wal-kamal \ ya mal-lahul-mul-ku wal-jalal \ ya man huwal-kaberul-mutaaal 
+ya mal-lahul-iiz-zatu wal-jamal \ 
+
+ya mal-lahul-qud-ratu wal-kamal \ 
+
+ya mal-lahul-mul-ku wal-jalal \ 
+
+ya man huwal-kaberul-mutaaal 
 
 ya mun-shias-sahabilth-thiqal 
 
@@ -6708,9 +6728,29 @@ ya man huwa shadedul-mihal
 
 ya man huwa sareu'l-hisab 
 
-ya man huwa shadedul-iiqab \ ya man iindahu hus-nuth-thawab 
+ya man huwa shadedul-iiqab \ 
 
-ya man iindahu ummul-kitab \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (5) \ allahumma in-ne as-aluka bis-mika \ ya han-nanu ya man-nan \ ya day-yanu ya bur-han \ ya sul-tanu ya rizwan \ ya ghuf-ranu ya sub-hanu ya mus-taaan 
+ya man iindahu hus-nuth-thawab 
+
+ya man iindahu ummul-kitab \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(5) \ 
+
+allahumma in-ne as-aluka bis-mika \ 
+
+ya han-nanu ya man-nan \ 
+
+ya day-yanu ya bur-han \ 
+
+ya sul-tanu ya rizwan \ 
+
+ya ghuf-ranu ya sub-hanu ya mus-taaan 
 
 ya dhal-man-ni wal-bayan 
 
@@ -6722,9 +6762,23 @@ khallisna minan-nari ya rabb
 
 (6) 
 
-ya man tawadhaa kul-lu shayil-li-a'zamatihi \ ya manis-taslama kul-lu shayil-li-qud-ratih \ ya man dhal-la kul-lu shayil-li-iiz-zatih 
+ya man tawadhaa kul-lu shayil-li-a'zamatihi \ 
 
-ya man khadhaa kul-lu shayil-li-haybatih \ ya manin-qada kul-lu shayim-min khash-yatih \ ya man tashaq-qaqatil-jibalu mim-makhafatih \ ya man qamatis-samawatu bi-am-rih \ ya manis-taqar-ratil-aradhuna biidhnih \ ya may-yusab-bihur-raa-du biham-dih 
+ya manis-taslama kul-lu shayil-li-qud-ratih \ 
+
+ya man dhal-la kul-lu shayil-li-iiz-zatih 
+
+ya man khadhaa kul-lu shayil-li-haybatih \ 
+
+ya manin-qada kul-lu shayim-min khash-yatih \ 
+
+ya man tashaq-qaqatil-jibalu mim-makhafatih \ 
+
+ya man qamatis-samawatu bi-am-rih \ 
+
+ya manis-taqar-ratil-aradhuna biidhnih \ 
+
+ya may-yusab-bihur-raa-du biham-dih 
 
 ya mal-la yatade ala ah-li mam-lakatih 
 
@@ -6752,11 +6806,59 @@ ya qadhiyal-manaya
 
 ya samia'ash-shakaya 
 
-ya baiithal-baraya \ ya mut-liqal-usara \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (8) \ ya dhal-ham-di wath-thana-i \ ya dhal-fakh-ri wal-baha-i \ ya dhal-maj-di was-sana-i \ ya dhal-a'h-di wal-wafa-i \ ya dhal-a'f-wi war-ridha \ ya dhal-man-ni wal-a'ta-i \ ya dhal-fas-li wal-qadha-i \ ya dhal-iiz-zi wal-baqa 
+ya baiithal-baraya \ 
+
+ya mut-liqal-usara \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(8)
+
+ya dhal-ham-di wath-thana-i \ 
+
+ya dhal-fakh-ri wal-baha-i \ 
+
+ya dhal-maj-di was-sana-i \ 
+
+ya dhal-a'h-di wal-wafa-i \ 
+
+ya dhal-a'f-wi war-ridha \ 
+
+ya dhal-man-ni wal-a'ta-i \ 
+
+ya dhal-fas-li wal-qadha-i \ 
+
+ya dhal-iiz-zi wal-baqa 
 
 ya dhal-judi was-sakha-i 
 
-ya dhal-a-la-i wan-naa-ma-i \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (9) \ allahumma in-ne as-aluka bis-mika \ ya maniu' ya dafiu' \ ya rafiu' ya saniu' \ ya nafiu' ya samiu' \ ya jamiu' ya shafiu' \ ya wasiu' ya musiu' \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (10) \ ya sania' kul-li mas-nuiin 
+ya dhal-a-la-i wan-naa-ma-i \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(9)
+
+ \ allahumma in-ne as-aluka bis-mika \
+  ya maniu' ya dafiu' \ 
+  ya rafiu' ya saniu' \ 
+  ya nafiu' ya samiu' \ 
+  ya jamiu' ya shafiu' \ 
+  ya wasiu' ya musiu' \ 
+  subhanaka ya la ilaha illa anta \ 
+  al-ghawth al-ghawth \ 
+  khallisna minan-nari ya rabb \ \ 
+  
+  (10)
+  
+  \ ya sania' kul-li mas-nuiin 
 
 ya khaliqa kul-li makh-luq 
 
@@ -6772,17 +6874,47 @@ ya rahima kul-li mar-hum
 
 ya nasira kul-li makh-dhul 
 
-ya satira kul-li maa-yub \ ya mal-ja kul-li mat-rud \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (11) \ ya u'd-date iinda shid-date 
+ya satira kul-li maa-yub \ 
 
-ya raja-e iinda musebate \ ya mu-nise iinda wah-shate 
+ya mal-ja kul-li mat-rud \ 
 
-ya sahibe iinda ghur-bate \ ya wale-ye iinda nia'-mate 
+subhanaka ya la ilaha illa anta \ 
 
-ya ghiyathe iinda kur-bate \ ya dalele iinda hayrate 
+al-ghawth al-ghawth \ 
 
-ya ghina-e iindaf-tiqare \ ya mal-jae iindadh-tirare 
+khallisna minan-nari ya rabb \ \ 
 
-ya mue'ene iinda mafzae'e \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (12) \ ya al-lamal-ghuyub 
+(11)
+
+\ ya u'd-date iinda shid-date 
+
+ya raja-e iinda musebate \ 
+
+ya mu-nise iinda wah-shate 
+
+ya sahibe iinda ghur-bate \ 
+
+ya wale-ye iinda nia'-mate 
+
+ya ghiyathe iinda kur-bate \ 
+
+ya dalele iinda hayrate 
+
+ya ghina-e iindaf-tiqare \ 
+
+ya mal-jae iindadh-tirare 
+
+ya mue'ene iinda mafzae'e \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+  
+12)
+  
+  \ ya al-lamal-ghuyub 
 
 ya ghaf-faradh-dhunub 
 
@@ -6840,7 +6972,15 @@ ya jaral-mus-tajeren
 
 ya amanal-kha-ifen 
 
-ya aw-nal-mu-minen \ ya rahimal-masaken \ ya mal-jal-a'asen \ ya ghafiral-mudhniben \ ya mujeba daa-watil-madhtar-ren 
+ya aw-nal-mu-minen \ 
+
+ya rahimal-masaken \ 
+
+ya mal-jal-a'asen \ 
+
+ya ghafiral-mudhniben \ 
+
+ya mujeba daa-watil-madhtar-ren 
 
 subhanaka ya la ilaha illa anta 
 
@@ -6866,11 +7006,35 @@ ya dhal-huj-jati wal-bur-han
 
 ya dhal-a'zamati was-sul-tan 
 
-ya dhar-ra-fati wal-mus-taaan \ ya dhal-a'f-wi wal-ghuf-ran \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (16) \ ya man huwa rab-bu kul-li shay \ ya man huwa ilhu kul-li shay \ ya man huwa khaliqu kul-li shay \ ya man huwa saniu' kul-li shay \ ya man huwa qab-la kul-li shay \ ya man huwa baa-da kul-li shay 
+ya dhar-ra-fati wal-mus-taaan \ 
+
+ya dhal-a'f-wi wal-ghuf-ran \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(16)
+
+\ ya man huwa rab-bu kul-li shay \ 
+
+ya man huwa ilhu kul-li shay \ 
+
+ya man huwa khaliqu kul-li shay \ 
+
+ya man huwa saniu' kul-li shay \ 
+
+ya man huwa qab-la kul-li shay \ 
+
+ya man huwa baa-da kul-li shay 
 
 ya man huwa faw-qa kul-li shay 
 
-ya man huwa aalimum bikul-li shay \ ya man huwa qadirun ala kul-li shay 
+ya man huwa aalimum bikul-li shay \ 
+
+ya man huwa qadirun ala kul-li shay 
 
 ya man huwa yab-qa wa yaf-na kul-lu shay 
 
@@ -6906,9 +7070,17 @@ ya man huwa fe mul-kihi muqem
 
 ya man huwa fe sul-tanihi qadem 
 
-ya man huwa fe jalalihi azem \ ya man huwa ala iibadihi rahem \ ya man huwa bikul-li shay-in alem 
+ya man huwa fe jalalihi azem \ 
 
-ya man huwa biman asahu halem \ ya man huwa bimar-rajahu karem \ ya man huwa fe sun-iihi hakem 
+ya man huwa ala iibadihi rahem \ 
+
+ya man huwa bikul-li shay-in alem 
+
+ya man huwa biman asahu halem \ 
+
+ya man huwa bimar-rajahu karem \ 
+
+ya man huwa fe sun-iihi hakem 
 
 ya man huwa fe hik-matihi latef 
 
@@ -6924,7 +7096,11 @@ khallisna minan-nari ya rabb
 
 ya mal-la yur-ja illa fadhluh 
 
-ya mal-la yus-alu illa af-wuh \ ya mal-la yun-zaru illa bir-ruh \ ya mal-la yukhafu illa ad-luh 
+ya mal-la yus-alu illa af-wuh \ 
+
+ya mal-la yun-zaru illa bir-ruh \ 
+
+ya mal-la yukhafu illa ad-luh 
 
 ya mal-la yadumu illa mul-kuh 
 
@@ -6934,11 +7110,49 @@ ya maw-wasia't kul-la shay-ir-rah-matuh
 
 ya man sabaqat rah-matuhu ghadhabah 
 
-ya man ahata bikul-li shay-in iil-muhu \ ya mal-laysa ahadum-mith-lah \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (20) \ ya farijal-ham \ ya kashifal-gham \ ya ghafiradh-dham-b \ ya qabilat-taw-b \ ya khaliqal-khal-q \ ya sadiqal-waa-d 
+ya man ahata bikul-li shay-in iil-muhu \ 
+
+ya mal-laysa ahadum-mith-lah \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(20)
+
+\ ya farijal-ham \ 
+
+ya kashifal-gham \ 
+
+ya ghafiradh-dham-b \ 
+
+ya qabilat-taw-b \ 
+
+ya khaliqal-khal-q \ 
+
+ya sadiqal-waa-d 
 
 ya mufi-yal-a'h-d 
 
-ya aalimas-sir \ ya faliqal-hab-b \ ya raziqal-anam \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (21) \ allahumma in-ne as-aluka bis-mika \ ya ale-yu ya wafe 
+ya aalimas-sir \ 
+
+ya faliqal-hab-b \ 
+
+ya raziqal-anam \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(21)
+
+\ allahumma in-ne as-aluka bis-mika \ 
+
+ya ale-yu ya wafe 
 
 ya ghane-yu ya male 
 
@@ -6964,7 +7178,41 @@ ya mal-lam yuakhidh bial-jarerah
 
 ya mal-lam yah-tikis-sit-r 
 
-ya azemal-a'f-wi \ ya hasanat-tajawuz \ ya wasia'l-magh-firah \ ya basital-yadayni bilr-rih-mah \ ya sahiba kul-li naj-wa \ ya mun-taha kul-li shak-wa \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (23) \ ya dhan-nia'-matis-sabighah \ ya dhar-rah-matil-wasia'h \ ya dhal-min-natis-sabiqah \ ya dhal-hik-matil-balighah \ ya dhal-qud-ratil-kamilah \ ya dhal-huj-jatil-qatia'h \ ya dhal-karamatiz-zahirah \ ya dhal-iiz-zatid-da-imah 
+ya azemal-a'f-wi \ 
+
+ya hasanat-tajawuz \ 
+
+ya wasia'l-magh-firah \ 
+
+ya basital-yadayni bilr-rih-mah \ 
+
+ya sahiba kul-li naj-wa \ 
+
+ya mun-taha kul-li shak-wa \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(23)
+
+\ ya dhan-nia'-matis-sabighah \ 
+
+ya dhar-rah-matil-wasia'h \ 
+
+ya dhal-min-natis-sabiqah \ 
+
+ya dhal-hik-matil-balighah \ 
+
+ya dhal-qud-ratil-kamilah \ 
+
+ya dhal-huj-jatil-qatia'h \ 
+
+ya dhal-karamatiz-zahirah \ 
+
+ya dhal-iiz-zatid-da-imah 
 
 ya dhal-qu-watil-matenah 
 
@@ -6978,7 +7226,9 @@ khallisna minan-nari ya rabb
 
 (24) 
 
-ya badi-yaas-samawat \ ya jaiilaz-zulumat 
+ya badi-yaas-samawat \ 
+
+ya jaiilaz-zulumat 
 
 ya rahimal-a'barat 
 
@@ -6990,7 +7240,71 @@ ya muh-yi-yal-am-wat
 
 ya munzilal-a-yat 
 
-ya mudhaa-ifal-hasanat \ ya mahi-yas-say-yi-at \ ya shadedan-naqimat \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (25) \ allahumma in-ne as-aluka bis-mika \ ya musaw-wiru ya muqad-dir \ ya mudab-biru ya mutah-hir \ ya munaw-wiru ya muyas-sir \ ya mubash-shiru ya mundhir \ ya muqad-dimu ya muakh-hir \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (26) \ ya rab-bal-baytil-haram \ ya rab-bash-shah-ril-haram \ ya rab-bal-baladil-haram \ ya rab-bar-ruk-ni wal-maqam \ ya rab-bal-mash-a'ril-harami \ ya rab-bal-mas-jidil-haram \ ya rab-bal-hil-li wal-haram \ ya rab-ban-nuri waz-zalam \ ya rab-bat-tahe-yati was-salam \ ya rab-bal-qud-rati fil-anam \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (27) \ ya ah-kamal-hakimen \ ya aa-dalal-a'adilen 
+ya mudhaa-ifal-hasanat \ 
+
+ya mahi-yas-say-yi-at \ 
+
+ya shadedan-naqimat \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(25)
+
+\ allahumma in-ne as-aluka bis-mika \ 
+
+ya musaw-wiru ya muqad-dir \ 
+
+ya mudab-biru ya mutah-hir \ 
+
+ya munaw-wiru ya muyas-sir \ 
+
+ya mubash-shiru ya mundhir \ 
+
+ya muqad-dimu ya muakh-hir \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(26)
+
+\ ya rab-bal-baytil-haram \ 
+
+ya rab-bash-shah-ril-haram \ 
+
+ya rab-bal-baladil-haram \ 
+
+ya rab-bar-ruk-ni wal-maqam \ 
+
+ya rab-bal-mash-a'ril-harami \ 
+
+ya rab-bal-mas-jidil-haram \ 
+
+ya rab-bal-hil-li wal-haram \ 
+
+ya rab-ban-nuri waz-zalam \ 
+
+ya rab-bat-tahe-yati was-salam \ 
+
+ya rab-bal-qud-rati fil-anam \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(27)
+
+\ ya ah-kamal-hakimen \ 
+
+ya aa-dalal-a'adilen 
 
 ya as-daqas-sadiqen 
 
@@ -6998,17 +7312,89 @@ ya at-harat-tahiren
 
 ya ah-sanal-khaliqen 
 
-ya as-raal-hasiben \ ya as-maas-samie'en 
+ya as-raal-hasiben \ 
+
+ya as-maas-samie'en 
 
 ya ab-saran-naziren 
 
-ya ash-faash-shafie'en \ ya ak-ramal-ak-ramen \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (28) \ ya iimada mal-la iimada lah \ ya sanada mal-la sanada lah \ ya dhukh-ra mal-la dhukh-ra lah \ ya hirza mal-la hirza lah \ ya ghiyatha mal-laghiyatha lah \ ya fakh-ra mal-la fakh-ra lah \ ya iiz-za mal-la iiz-za lah \ ya mue'ena mal-la mue'ena lah \ ya anesa mal-la anesa lah \ ya amana mal-la amana lah \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (29) \ allahumma in-ne as-aluka bis-mika \ ya aasimu ya qa-im 
+ya ash-faash-shafie'en \ 
+
+ya ak-ramal-ak-ramen \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(28)
+
+\ ya iimada mal-la iimada lah \ 
+
+ya sanada mal-la sanada lah \ 
+
+ya dhukh-ra mal-la dhukh-ra lah \ 
+
+ya hirza mal-la hirza lah \ 
+
+ya ghiyatha mal-laghiyatha lah \ 
+
+ya fakh-ra mal-la fakh-ra lah \ 
+
+ya iiz-za mal-la iiz-za lah \ 
+
+ya mue'ena mal-la mue'ena lah \ 
+
+ya anesa mal-la anesa lah \ 
+
+ya amana mal-la amana lah \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(29)
+
+\ allahumma in-ne as-aluka bis-mika \ 
+
+ya aasimu ya qa-im 
 
 ya da-imu ya rahim 
 
 ya salimu ya hakim 
 
-ya aalimu ya qasim \ ya qabidhu ya basit \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (30) \ ya aasima manis-taa-samah \ ya rahima manis-tar-hamah \ ya ghafira manis-tagh-farah \ ya nasira manis-tan-sarah \ ya handiza manis-tah-fazah \ ya muk-rima manis-tak-ramah \ ya mur-shida manis-tar-shadah \ ya sarekha manis-tas-rakhah \ ya mue'ena manis-taaana 
+ya aalimu ya qasim \ 
+
+ya qabidhu ya basit \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(30)
+
+\ ya aasima manis-taa-samah \ 
+
+ya rahima manis-tar-hamah \ 
+
+ya ghafira manis-tagh-farah \ 
+
+ya nasira manis-tan-sarah \ 
+
+ya handiza manis-tah-fazah \ 
+
+ya muk-rima manis-tak-ramah \ 
+
+ya mur-shida manis-tar-shadah \ 
+
+ya sarekha manis-tas-rakhah \ 
+
+ya mue'ena manis-taaana 
 
 ya mughetha manis-taghathah 
 
@@ -7020,7 +7406,21 @@ khallisna minan-nari ya rabb
 
 (31) 
 
-ya azezal-la yudham \ ya latefal-la yuram \ ya qay-yumal-la yanam \ ya da-imal-la yafut \ ya hay-yal-la yamut \ ya malikal-la yazul \ ya baqiyal-la yaf-na \ ya aalimal-la yaj-hal 
+ya azezal-la yudham \ 
+
+ya latefal-la yuram \ 
+
+ya qay-yumal-la yanam \ 
+
+ya da-imal-la yafut \ 
+
+ya hay-yal-la yamut \ 
+
+ya malikal-la yazul \ 
+
+ya baqiyal-la yaf-na \ 
+
+ya aalimal-la yaj-hal 
 
 ya samadal-la yut-a'm 
 
@@ -7042,7 +7442,48 @@ ya shahidu ya majid
 
 ya hamidu ya rashid 
 
-ya baiithu ya warith \ ya dha-r-ru ya nafiu' \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (33) \ ya aa-zama min kul-li azem \ ya ak-rama min kul-li karemi \ ya ar-hama min kul-li rahem \ ya aa-lama min kul-li alem \ ya ah-kama min kul-li hakem \ ya aq-dama min kul-li qadem \ ya ak-bara min kul-li kaber \ ya al-tafa min kul-li latef \ ya ajal-la min kul-li jalel \ ya aaz-za min kul-li azez \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (34) \ ya karemas-saf-h \ ya azemal-man 
+ya baiithu ya warith \ 
+
+ya dha-r-ru ya nafiu' \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(33)
+
+\ ya aa-zama min kul-li azem \ 
+
+ya ak-rama min kul-li karemi \ 
+
+ya ar-hama min kul-li rahem \ 
+
+ya aa-lama min kul-li alem \ 
+
+ya ah-kama min kul-li hakem \ 
+
+ya aq-dama min kul-li qadem \ 
+
+ya ak-bara min kul-li kaber \ 
+
+ya al-tafa min kul-li latef \ 
+
+ya ajal-la min kul-li jalel \ 
+
+ya aaz-za min kul-li azez \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(34) 
+\ ya karemas-saf-h \ 
+
+ya azemal-man 
 
 ya katheral-khayr 
 
@@ -7050,15 +7491,63 @@ ya qademal-fadhli
 
 ya da-imal-lut-f 
 
-ya latefas-sun-ii \ ya munaf-fisal-kar-b \ ya kashifadh-dhur \ ya malikal-mulk \ ya qadhi-yal-haq-q \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (35) \ ya man huwa fe ah-dihi wafe 
+ya latefas-sun-ii \ 
+
+ya munaf-fisal-kar-b \ 
+
+ya kashifadh-dhur \ 
+
+ya malikal-mulk \ 
+
+ya qadhi-yal-haq-q \ 
+
+subhanaka ya la ilaha illa anta \ #
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(35)
+
+\ ya man huwa fe ah-dihi wafe 
 
 ya man huwa fe wafa-ihi qawe 
 
-ya man huwa fe qu-watihi ale \ ya man huwa fe u'lu-wuhi qareb \ ya man huwa fe qur-bihi latef \ ya man huwa fe lut-fihi sharef \ ya man huwa fe sharafihi azez 
+ya man huwa fe qu-watihi ale \ 
+
+ya man huwa fe u'lu-wuhi qareb \ 
+
+ya man huwa fe qur-bihi latef \ 
+
+ya man huwa fe lut-fihi sharef \ 
+
+ya man huwa fe sharafihi azez 
 
 ya man huwa fe iiz-zihi azem 
 
-ya man huwa fe azamatihi majed \ ya man huwa fe maj-dihi hamed \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (36) \ allahumma in-ne as-aluka bis-mika \ ya kafe ya shafe \ ya wafe ya mua'afe \ ya hade ya dae'e \ ya qadhe ya radhe \ ya aale ya baqe 
+ya man huwa fe azamatihi majed \ 
+
+ya man huwa fe maj-dihi hamed \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(36)
+
+\ allahumma in-ne as-aluka bis-mika \ 
+
+ya kafe ya shafe \ 
+
+ya wafe ya mua'afe \ 
+
+ya hade ya dae'e \ 
+
+ya qadhe ya radhe \ 
+
+ya aale ya baqe 
 
 subhanaka ya la ilaha illa anta 
 
@@ -7098,9 +7587,115 @@ khallisna minan-nari ya rabb
 
 ya mal-la mafar-ra illa ilayh 
 
-ya mal-la mafzaa illa ilayh \ ya mal-la maq-sada illa ilayh \ ya mal-la manja minhu illa ilayhi \ ya mal-la yur-ghabu illa ilayhi \ ya mal-la haw-la wa-la qu-wata illa bih \ ya mal-la yus-taaanu illa bih 
+ya mal-la mafzaa illa ilayh \ 
 
-ya mal-la yutawak-kalu illa alayh \ ya mal-la yur-ja illa huwa \ ya mal-la yua'-badu illa huwa \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (39) \ ya khayral-mar-huben \ ya khayral-mar-ghuben \ ya khayral-mat-luben \ ya khayral-mas-ulen \ ya khayral-maq-suden \ ya khayral-madhkuren \ ya khayral-mash-kuren \ ya khayral-mah-buben \ ya khayral-mad-o'o-wen \ ya khayral-mus-ta-nisen \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (40) \ allahumma in-ne as-aluka bis-mika \ ya ghafiru ya satir \ ya qadiru ya qa-hiru ya fatir \ ya kasiru ya jabir \ ya dhakiru ya naziru ya nasir \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (41) \ ya man khalaqa fasaw-wa \ ya man qad-dara fahada \ ya may-yak-shiful-bal-wa \ ya may-yas-mau'n-naj-wa \ ya may-yun-qidhul-ghar-qa \ ya may-yunjil-hal-ka \ ya may-yash-fil-mar-dha \ ya man adhhaka wa ab-ka \ ya man amata wa ah-ya \ ya man khalaqaz-zaw-jaynidh-dhakara wal-un-tha \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (42) \ ya man fil-bar-ri wal-bah-ri sabeluh \ ya man fil-a-faqi a-yatuh \ ya man fil-a-yati bur-hanuh \ ya man fel-mamati qud-ratuh \ ya man fil-quburi iib-ratuh 
+ya mal-la maq-sada illa ilayh \ 
+
+ya mal-la manja minhu illa ilayhi \ 
+
+ya mal-la yur-ghabu illa ilayhi \ 
+
+ya mal-la haw-la wa-la qu-wata illa bih \ 
+
+ya mal-la yus-taaanu illa bih 
+
+ya mal-la yutawak-kalu illa alayh \ 
+
+ya mal-la yur-ja illa huwa \ 
+
+ya mal-la yua'-badu illa huwa \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(39)
+
+\ ya khayral-mar-huben \ 
+
+ya khayral-mar-ghuben \ 
+
+ya khayral-mat-luben \ 
+
+ya khayral-mas-ulen \ 
+
+ya khayral-maq-suden \ 
+
+ya khayral-madhkuren \ 
+
+ya khayral-mash-kuren \ 
+
+ya khayral-mah-buben \ 
+
+ya khayral-mad-o'o-wen \ 
+
+ya khayral-mus-ta-nisen \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(40)
+
+\ allahumma in-ne as-aluka bis-mika \ 
+
+ya ghafiru ya satir \ 
+
+ya qadiru ya qa-hiru ya fatir \ 
+
+ya kasiru ya jabir \ 
+
+ya dhakiru ya naziru ya nasir \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(41)
+
+\ ya man khalaqa fasaw-wa \ 
+
+ya man qad-dara fahada \ 
+
+ya may-yak-shiful-bal-wa \ 
+
+ya may-yas-mau'n-naj-wa \ 
+
+ya may-yun-qidhul-ghar-qa \ 
+
+ya may-yunjil-hal-ka \ 
+
+ya may-yash-fil-mar-dha \ 
+
+ya man adhhaka wa ab-ka \ 
+
+ya man amata wa ah-ya \ 
+
+ya man khalaqaz-zaw-jaynidh-dhakara wal-un-tha \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(42)
+
+\ ya man fil-bar-ri wal-bah-ri sabeluh \ 
+
+ya man fil-a-faqi a-yatuh \ 
+
+ya man fil-a-yati bur-hanuh \ 
+
+ya man fel-mamati qud-ratuh \ 
+
+ya man fil-quburi iib-ratuh 
 
 ya man fil-qiyamati mul-kuh 
 
@@ -7110,11 +7705,95 @@ ya man fil-mezani qadha-uh
 
 ya man fil-jan-nati thawabuh 
 
-ya man fin-nari iiqabuh \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (43) \ ya man ilayhi yah-rabul-kha-ifun \ ya man ilayhi yafzau'l-mudhnibun \ ya man ilayhi yaq-sidul-munebun \ ya man ilayhi yar-ghabuz-zahidun \ ya man ilayhi yal-jaul-mutahay-yirun \ ya mam bihi yas-ta-nisul-muredun \ ya mam bihi yaf-takhirul-muhib-bun \ ya man fe af-wihi yat-mau'l-khati-un 
+ya man fin-nari iiqabuh 
+
+\ subhanaka ya la ilaha illa anta 
+
+\ al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(43) \ 
+
+ya man ilayhi yah-rabul-kha-ifun \ 
+
+ya man ilayhi yafzau'l-mudhnibun \ 
+
+ya man ilayhi yaq-sidul-munebun \ 
+
+ya man ilayhi yar-ghabuz-zahidun \ 
+
+ya man ilayhi yal-jaul-mutahay-yirun \ 
+
+ya mam bihi yas-ta-nisul-muredun \
+
+ya mam bihi yaf-takhirul-muhib-bun \
+
+ya man fe af-wihi yat-mau'l-khati-un 
 
 ya man ilayhi yas-kunul-muqinun 
 
-ya man alayahi yatawak-kalul-mutawak-kilun \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (44) \ allahumma in-ne as-aluka bis-mika \ ya habebu ya tabeb \ ya qarebu ya raqeb \ ya hasebu ya muheb \ ya muthebu ya mujeb \ ya khaberu ya baser \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (45) \ ya aq-raba min kul-li qareb \ ya ahab-ba min kul-li habeb \ ya ab-sara min kul-li baser \ ya akh-bara min kul-li khaber \ ya ash-rafa min kul-li sharef \ ya ar-faa min kul-li rafeiin \ ya aq-wa min kul-li qawe \ ya agh-na min kul-li ghane \ ya aj-wada min kul-li jawad \ ya ar-afa min kul-li ra’uf \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (46) \ ya ghaliban ghayra magh-lub \ ya sania'an ghayra mas-nuiin 
+ya man alayahi yatawak-kalul-mutawak-kilun \ 
+
+subhanaka ya la ilaha illa anta \
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \
+
+(44) \ 
+
+allahumma in-ne as-aluka bis-mika \
+
+ya habebu ya tabeb \
+
+ya qarebu ya raqeb \
+
+ya hasebu ya muheb \
+
+ya muthebu ya mujeb 
+
+\ ya khaberu ya baser \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(45) \
+
+ya aq-raba min kul-li qareb \ 
+
+ya ahab-ba min kul-li habeb \ 
+
+ya ab-sara min kul-li baser \ 
+
+ya akh-bara min kul-li khaber \
+
+ya ash-rafa min kul-li sharef \
+
+ya ar-faa min kul-li rafeiin \ 
+
+ya aq-wa min kul-li qawe \
+
+ya agh-na min kul-li ghane \ 
+
+ya aj-wada min kul-li jawad \
+
+ya ar-afa min kul-li ra’uf \
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(46) \ 
+
+ya ghaliban ghayra magh-lub \ 
+
+ya sania'an ghayra mas-nuiin 
 
 ya khaliqan ghayra makh-luq 
 
@@ -7122,7 +7801,39 @@ ya malikan ghayra mam-luk
 
 ya qahiran ghayra maq-hur 
 
-ya rafia'an ghayra mar-fuiin \ ya hafizan ghayra mah-fuzin \ ya nasiran ghayra man-sur \ ya shahidan ghayra gha-ib \ ya qareban ghayra bae'ed \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (47) \ ya nuran-nur \ ya munaw-wiran-nur \ ya khaliqan-nur \ ya mudab-biran-nuri \ ya muqad-diran-nur \ ya nura kul-li nur \ ya nuran qab-la kul-li nur \ ya nuram baa-da kul-li nur 
+ya rafia'an ghayra mar-fuiin \ 
+
+ya hafizan ghayra mah-fuzin \ 
+
+ya nasiran ghayra man-sur \ 
+
+ya shahidan ghayra gha-ib \ 
+
+ya qareban ghayra bae'ed \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \
+
+khallisna minan-nari ya rabb \ \ 
+
+(47) \ 
+
+ya nuran-nur \
+
+ya munaw-wiran-nur \ 
+
+ya khaliqan-nur \ 
+
+ya mudab-biran-nuri \ 
+
+ya muqad-diran-nur \ 
+
+ya nura kul-li nur \ 
+
+ya nuran qab-la kul-li nur \ 
+
+ya nuram baa-da kul-li nur 
 
 ya nuran faw-qa kul-li nur 
 
@@ -7136,9 +7847,25 @@ khallisna minan-nari ya rabb
 
 (48) 
 
-ya man ata-uhu sharef \ ya man fia'-luhu latef \ ya mal-lut-fuhu muqem \ ya man ih-sanuhu qadem \ ya man qaw-luhu haqq \ ya maw-waa-duhu sidq 
+ya man ata-uhu sharef \
 
-ya man af-wuhu fazl \ ya man adhabuhu ad-l \ ya man dhik-ruhu hulu \ ya man fadhluh amem 
+ya man fia'-luhu latef \ 
+
+ya mal-lut-fuhu muqem \ 
+
+ya man ih-sanuhu qadem \
+
+ya man qaw-luhu haqq \
+
+ya maw-waa-duhu sidq 
+
+ya man af-wuhu fazl \ 
+
+ya man adhabuhu ad-l \ 
+
+ya man dhik-ruhu hulu \ 
+
+ya man fadhluh amem 
 
 subhanaka ya la ilaha illa anta 
 
@@ -7178,9 +7905,13 @@ ya may-yuh-ye wa-la yuh-yia
 
 ya may-yas-alu wa-la yus-al 
 
-ya may-yut-iimu wa-la yut-a'm \ ya may-yujeru wa-la yujaru ailayh 
+ya may-yut-iimu wa-la yut-a'm \ 
 
-ya may-yaq-dhe wa-la yuq-dha ailayh \ ya may-yah-kumu wa-la yuh-kamu ailayh 
+ya may-yujeru wa-la yujaru ailayh 
+
+ya may-yaq-dhe wa-la yuq-dha ailayh \ 
+
+ya may-yah-kumu wa-la yuh-kamu ailayh 
 
 ya mal-lam yalidu wa lam yulad 
 
@@ -7234,13 +7965,87 @@ ya raziqal-muqil-len
 
 ya raja-al-mudhniben 
 
-ya qur-rata aynil-a'abiden \ ya munaf-fisa anil-mak-ruben 
+ya qur-rata aynil-a'abiden \ 
 
-ya mufar-rija anil-magh-mumen \ ya ilahal-aw-walena wal-a-khiren \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (53) \ allahumma in-ne as-aluka bis-mika \ ya rab-bana ya ilhana \ ya say-yidana ya maw-lana \ ya nasirana ya hafizana \ ya dalelana ya mue'enana \ ya habebana ya tabebana \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (54) \ ya rab-ban-nabe-yena wal-ab-rar \ ya rab-bas-sid-deqena wal-akh-yar \ ya rab-bal-jan-nati wan-nar \ ya rab-bas-sighari wal-kibar \ yarab-bal-hububi wath-thimar \ yarab-bal-an-hari wal-ash-jar \ ya rab-bas-sahare wal-qifar \ ya rab-bal-barare wal-bihari \ ya rab-bal-layli wan-nahar \ ya rab-bal-ia'-lani wal-is-rar \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (55) \ ya man-nafadha fe kul-li shay-in am-ruh \ ya mallahiqa bikul-li shay-in iil-muh 
+ya munaf-fisa anil-mak-ruben 
+
+ya mufar-rija anil-magh-mumen \ 
+
+ya ilahal-aw-walena wal-a-khiren \ 
+
+subhanaka ya la ilaha illa anta \
+
+al-ghawth al-ghawth \
+
+khallisna minan-nari ya rabb \ \ 
+
+(53) \ 
+
+allahumma in-ne as-aluka bis-mika \ 
+
+ya rab-bana ya ilhana \ 
+
+ya say-yidana ya maw-lana \ 
+
+ya nasirana ya hafizana \ 
+
+ya dalelana ya mue'enana \ 
+
+ya habebana ya tabebana \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(54) \ 
+
+ya rab-ban-nabe-yena wal-ab-rar \ 
+
+ya rab-bas-sid-deqena wal-akh-yar \ 
+
+ya rab-bal-jan-nati wan-nar \ 
+
+ya rab-bas-sighari wal-kibar \
+
+yarab-bal-hububi wath-thimar \ 
+
+yarab-bal-an-hari wal-ash-jar \ 
+
+ya rab-bas-sahare wal-qifar \ 
+
+ya rab-bal-barare wal-bihari \ 
+
+ya rab-bal-layli wan-nahar \ 
+
+ya rab-bal-ia'-lani wal-is-rar \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \
+
+khallisna minan-nari ya rabb \ \ 
+
+(55) \ 
+
+ya man-nafadha fe kul-li shay-in am-ruh \ 
+
+ya mallahiqa bikul-li shay-in iil-muh 
 
 ya mam balaghat ila kul-li shay-in qud-ratuh 
 
-ya mal-la yuh-sil-iibadu nia'mah \ ya mal-la tab-lughul-khala-iqu shuk-rah \ ya mal-la tud-rikul-af-hamu jalalah \ ya mal-la tanalul-aw-hamu kun-hah \ ya manil-a'zamatu wal-kib-ri-ya-u rida-uh \ ya mal-la yarud-dul-iibadu qadha-ah 
+ya mal-la yuh-sil-iibadu nia'mah \ 
+
+ya mal-la tab-lughul-khala-iqu shuk-rah \ 
+
+ya mal-la tud-rikul-af-hamu jalalah \ 
+
+ya mal-la tanalul-aw-hamu kun-hah \ 
+
+ya manil-a'zamatu wal-kib-ri-ya-u rida-uh \ 
+
+ya mal-la yarud-dul-iibadu qadha-ah 
 
 ya mal-la mul-ka illa mul-kuh 
 
@@ -7254,17 +8059,161 @@ khallisna minan-nari ya rabb
 
 (56) 
 
-ya mal-lahul-mathalul-aa-la \ ya mal-lahus-sifatul-u'l-ya \ ya mal-lahul-a-khiratu wal-ula \ ya mal-lahu jan-natul-ma-wa \ ya mal-lahul-a-yatul-kub-ra \ ya mal-lahul-as-ma-ul-hus-na \ ya mal-lahul-huk-mu wal-qadha-u \ ya mal-lahul-hawa-u wal-fadha-u \ ya mal-lahul-a'r-shu wath-thara \ ya mallahus-samawatul-u'la \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (57) \ allahumma in-ne as-aluka bis-mika \ ya afu-wu ya ghafur 
+ya mal-lahul-mathalul-aa-la \ 
+
+ya mal-lahus-sifatul-u'l-ya \
+
+ya mal-lahul-a-khiratu wal-ula \ 
+
+ya mal-lahu jan-natul-ma-wa \ 
+
+ya mal-lahul-a-yatul-kub-ra \ 
+
+ya mal-lahul-as-ma-ul-hus-na \ 
+
+ya mal-lahul-huk-mu wal-qadha-u \ 
+
+ya mal-lahul-hawa-u wal-fadha-u \ 
+
+ya mal-lahul-a'r-shu wath-thara \ 
+
+ya mallahus-samawatul-u'la \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(57) \ 
+
+allahumma in-ne as-aluka bis-mika \
+
+ya afu-wu ya ghafur 
 
 ya saburu ya shakur 
 
-ya ra’ufu ya atuf \ ya mas-ulu ya wadud \ ya sub-buhu ya qud-dus \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (58) \ ya man fis-sama-i azamatuh 
+ya ra’ufu ya atuf \ 
+
+ya mas-ulu ya wadud \ 
+
+ya sub-buhu ya qud-dus \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(58) \ 
+
+ya man fis-sama-i azamatuh 
 
 ya man fil-ar-dhi a-yatuh 
 
 ya man fe kul-li shay-in dala-iluh 
 
-ya man fil-bihari aja-ibuh \ ya man fel-jibali khaza-inuh \ ya may-yabdaul-khal-qa thumma yue'eduh \ ya man ilayhi yar-jiu'l-am-ru kul-luh \ ya man azhara fe kul-li shayil-lut-fah \ ya man ah-sana kul-la shay-in khal-qah \ ya man tasar-rafa fil-khala-iqi qud-ratuh \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (59) \ ya habeba mal-la habeba lah \ ya tabeba mal-la tabeba lah \ ya mujeba mal-la mujeba lah \ ya shafeqa mal-la shafeqa lah \ ya rafeqa mal-la rafeqa lah \ ya mughetha mal-la mughetha lah \ ya dalela mal-la dalela lah \ ya anesa mal-la anesa lah \ ya rahima mal-la rahima lah \ ya sahiba mal-la sahiba lah \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (60) \ ya kafiya manis-tak-fah \ ya hadiya manis-tah-dah \ ya kalia manis-tak-lah \ ya rae'ea manis-tar-a'ah \ ya shafiya manis-tash-fah \ ya qadhiya manis-taq-dhah \ ya mugh-niya manis-tagh-nah \ ya mufiya manis-taw-fah \ ya muqaw-wiya manis-taq-wah \ ya wale-ya manis-taw-lah \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (61) \ allahumma in-ne as-aluka bis-mika \ ya khaliqu ya raziq \ ya natiqu ya sadiq \ ya faliqu ya fariq \ ya fatiqu ya ratiq \ ya sabiqu ya samiq \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (62) \ ya may-yuqal-libul-layla wan-nahar \ ya man jaalaz-zulumati wal-an-war 
+ya man fil-bihari aja-ibuh \ 
+
+ya man fel-jibali khaza-inuh \ 
+
+ya may-yabdaul-khal-qa thumma yue'eduh \ 
+
+ya man ilayhi yar-jiu'l-am-ru kul-luh \ 
+
+ya man azhara fe kul-li shayil-lut-fah \ 
+
+ya man ah-sana kul-la shay-in khal-qah \ 
+
+ya man tasar-rafa fil-khala-iqi qud-ratuh \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(59) \ 
+
+ya habeba mal-la habeba lah \ 
+
+ya tabeba mal-la tabeba lah \ 
+
+ya mujeba mal-la mujeba lah \ 
+
+ya shafeqa mal-la shafeqa lah \ 
+
+ya rafeqa mal-la rafeqa lah \ 
+
+ya mughetha mal-la mughetha lah \ 
+
+ya dalela mal-la dalela lah \ 
+
+ya anesa mal-la anesa lah \ 
+
+ya rahima mal-la rahima lah \ 
+
+ya sahiba mal-la sahiba lah \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(60) \ 
+
+ya kafiya manis-tak-fah \ 
+
+ya hadiya manis-tah-dah \ 
+
+ya kalia manis-tak-lah \ 
+
+ya rae'ea manis-tar-a'ah \ 
+
+ya shafiya manis-tash-fah \ 
+
+ya qadhiya manis-taq-dhah \ 
+
+ya mugh-niya manis-tagh-nah \ 
+
+ ya mufiya manis-taw-fah \  
+ 
+ ya muqaw-wiya manis-taq-wah \
+ 
+ ya wale-ya manis-taw-lah \ 
+ 
+ subhanaka ya la ilaha illa anta \
+ 
+ al-ghawth al-ghawth \ 
+ 
+ khallisna minan-nari ya rabb \ \ 
+ 
+ (61) \ 
+ 
+ allahumma in-ne as-aluka bis-mika \ 
+ 
+ ya khaliqu ya raziq \ 
+ 
+ ya natiqu ya sadiq \ 
+ 
+ ya faliqu ya fariq \ 
+ 
+ ya fatiqu ya ratiq \ 
+ 
+ ya sabiqu ya samiq \ 
+ 
+ subhanaka ya la ilaha illa anta \ 
+ 
+ al-ghawth al-ghawth \ 
+ 
+ khallisna minan-nari ya rabb \ \ 
+ 
+ (62) \ 
+ 
+ ya may-yuqal-libul-layla wan-nahar \ 
+ 
+ ya man jaalaz-zulumati wal-an-war 
 
 ya man khalaqaz-zilla wal-harur 
 
@@ -7290,7 +8239,9 @@ khallisna minan-nari ya rabb
 
 (63) 
 
-ya may-yaa-lamu muradal-m-ruyiden \ ya may-yaa-lamu dhameras-samiten 
+ya may-yaa-lamu muradal-m-ruyiden \ 
+
+ya may-yaa-lamu dhameras-samiten 
 
 ya may-yas-mau' anenal-wahinen 
 
@@ -7300,7 +8251,11 @@ ya may-yam-liku hawa-ijas-sa-ilen
 
 ya may-yaq-balu u'dhrat-ta-iben 
 
-ya may-yus-lihu amalal-muf-siden \ ya mal-la yudheu' aj-ral-muh-sinen \ ya mal-la yab-u'du an qulubil-a'arifen 
+ya may-yus-lihu amalal-muf-siden \ 
+
+ya mal-la yudheu' aj-ral-muh-sinen \ 
+
+ya mal-la yab-u'du an qulubil-a'arifen 
 
 ya ajwadal-ajwaden 
 
@@ -7368,7 +8323,11 @@ ya man at-a'mane wa saqane
 
 ya man qar-rabane wa ad-nane 
 
-ya man asamane wa kafane \ ya man hafazane wa kalane \ ya man aaz-zane wa agh-nane 
+ya man asamane wa kafane \ 
+
+ya man hafazane wa kalane \ 
+
+ya man aaz-zane wa agh-nane 
 
 ya maw-waf-faqane wa hadane 
 
@@ -7390,17 +8349,47 @@ ya may-yaq-balut-taw-bata an iibadih
 
 ya may-yahulu baynal-mari wa qal-bih 
 
-ya mal-la tan-fau'sh-shafaatu illa bi-idhnihi \ ya man huwa aa-lamu biman dhal-la an sabelih \ ya mal-la mua'q-qiba lihuk-mih \ ya mal-la ra-d-da liqadha-ih \ ya man-inqada kul-lu shay-il-lam-rihi \ ya mans-samawatu mat-we-yatum bi-yamenih \ ya may-yur-silur-riyaha bush-ram bayna yaday rah-matih \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (68) \ ya man jaalal-ar-dha mihada 
+ya mal-la tan-fau'sh-shafaatu illa bi-idhnihi \ 
 
-ya man jaalal-jibala aw-tada \ ya man jaalash-sham-sa siraja 
+ya man huwa aa-lamu biman dhal-la an sabelih \ 
 
-ya man jaalal-qamara nura \ ya man jaalal-layla libasa 
+ya mal-la mua'q-qiba lihuk-mih \ 
+
+ya mal-la ra-d-da liqadha-ih \ 
+
+ya man-inqada kul-lu shay-il-lam-rihi \ 
+
+ya mans-samawatu mat-we-yatum bi-yamenih \ 
+
+ya may-yur-silur-riyaha bush-ram bayna yaday rah-matih \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(68) \ 
+
+ya man jaalal-ar-dha mihada 
+
+ya man jaalal-jibala aw-tada \ 
+
+ya man jaalash-sham-sa siraja 
+
+ya man jaalal-qamara nura \ 
+
+ya man jaalal-layla libasa 
 
 ya man jaalan-nahara maaa-sha 
 
-ya man jaalan-naw-ma subata \ ya man jaalas-sama-a bina-a 
+ya man jaalan-naw-ma subata \ 
 
-ya man jaalal-ash-ya-a az-waja \ ya man jaalan-nara mir-sada 
+ya man jaalas-sama-a bina-a 
+
+ya man jaalal-ash-ya-a az-waja \ 
+
+ya man jaalan-nara mir-sada 
 
 subhanaka ya la ilaha illa anta 
 
@@ -7432,7 +8421,77 @@ khallisna minan-nari ya rabb
 
 ya hay-yan qab-la kul-li hay 
 
-ya hay-yam baa-da kul-li hay \ ya hay-yul-ladhe laysa kamith-lihi hay \ ya hay-yul-ladhe la yusha-rikuhu hay \ ya hay-yul-ladhe la yah-taju ila hay \ ya hay-yul-ladhe yumetu kul-la hay \ ya hay-yul-ladhe yarzuqu kul-la hay \ ya hay-yal-lam yarithil-hayata min hay \ ya hay-yul-ladhe yuh-ye al-maw-ta \ ya hay-yu ya qay-yumu la ta-khudhuhu sinatuw-wa-la naw-m \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (71) \ ya mal-lahu dhik-rul-la yun-sa \ ya mal-lahu nurul-la yut-fa \ ya mal-lahu nia'-mul-la tua'd \ ya mal-lahu mul-kul-la yazul \ ya mal-lahu thana-ul la yuh-sa \ ya mal-lahu jalalul-la yukay-yafu \ ya mal-lahu kamalul-la yud-rak \ ya mal-lahu qadha-ul-la yurad-d \ ya mal-lahu sifatul-la tubad-dal \ ya mal-lahu nuo'otul-la tughay-yar \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (72) \ ya rab-bal-a'alamen \ ya malika yaw-mid-den \ ya ghayatat-taliben \ ya zah-ra al-lajen \ ya mud-rikal-hariben \ ya may-yuhib-bus-sabiren \ ya may-yuhib-but-taw-waben \ ya may-yuhib-bul-mutatah-hiren \ ya may-yuhib-bul-muh-sinen \ ya man huwa aa-lamu bial-muh-taden 
+ya hay-yam baa-da kul-li hay \ 
+
+ya hay-yul-ladhe laysa kamith-lihi hay \ 
+
+ya hay-yul-ladhe la yusha-rikuhu hay \ 
+
+ya hay-yul-ladhe la yah-taju ila hay \ 
+
+ya hay-yul-ladhe yumetu kul-la hay \ 
+
+ya hay-yul-ladhe yarzuqu kul-la hay \ 
+
+ya hay-yal-lam yarithil-hayata min hay \ 
+
+ya hay-yul-ladhe yuh-ye al-maw-ta \ 
+
+ya hay-yu ya qay-yumu la ta-khudhuhu sinatuw-wa-la naw-m \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \
+
+khallisna minan-nari ya rabb \ \ 
+
+(71) \ 
+
+ya mal-lahu dhik-rul-la yun-sa \ 
+
+ya mal-lahu nurul-la yut-fa \ 
+
+ya mal-lahu nia'-mul-la tua'd \
+
+ya mal-lahu mul-kul-la yazul \ 
+
+ya mal-lahu thana-ul la yuh-sa \ 
+
+ya mal-lahu jalalul-la yukay-yafu \ 
+
+ya mal-lahu kamalul-la yud-rak \ 
+
+ya mal-lahu qadha-ul-la yurad-d \ 
+
+ya mal-lahu sifatul-la tubad-dal \
+
+ya mal-lahu nuo'otul-la tughay-yar \
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(72) \ ya rab-bal-a'alamen \
+
+ya malika yaw-mid-den \ 
+
+ya ghayatat-taliben \ 
+
+ya zah-ra al-lajen \ 
+
+ya mud-rikal-hariben \ 
+
+ya may-yuhib-bus-sabiren \ 
+
+ya may-yuhib-but-taw-waben \ 
+
+ya may-yuhib-bul-mutatah-hiren \ 
+
+ya may-yuhib-bul-muh-sinen \
+
+ya man huwa aa-lamu bial-muh-taden 
 
 subhanaka ya la ilaha illa anta 
 
@@ -7450,7 +8509,23 @@ ya hafezu ya muhet
 
 ya muqetu ya mugheth 
 
-ya muiiz-zu ya mudhil \ ya mubdi-u ya mue'ed \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (74) \ ya man huwa ahadum bila dhid-d \ ya man huwa far-dum bila nid-d \ ya man huwa s-m-dum bila ayb 
+ya muiiz-zu ya mudhil \ 
+
+ya mubdi-u ya mue'ed \ 
+
+subhanaka ya la ilaha illa anta \
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \
+
+(74) 
+
+\ ya man huwa ahadum bila dhid-d \
+
+ya man huwa far-dum bila nid-d \
+
+ya man huwa s-m-dum bila ayb 
 
 ya man huwa wit-rum bila kayf 
 
@@ -7458,7 +8533,11 @@ ya man huwa qadhim bila hayf
 
 ya man huwa rab-bum bila wazer 
 
-ya man huwa azezum bila dhul \ ya man huwa ghane-yum bila faq-r \ ya man huwa malikum bila azl 
+ya man huwa azezum bila dhul \ 
+
+ya man huwa ghane-yum bila faq-r \
+
+ya man huwa malikum bila azl 
 
 ya man huwa maw-sufum bila shabeh 
 
@@ -7474,7 +8553,9 @@ ya man dhik-ruhu sharaful-lidh-dhakiren
 
 ya man shuk-ruhu fawzul-lish-shakiren 
 
-ya man ham-duhu iiz-zul-lil-hamiden \ ya man taatuhu najatul-lil-mute'en 
+ya man ham-duhu iiz-zul-lil-hamiden \ 
+
+ya man taatuhu najatul-lil-mute'en 
 
 ya mam babuhu maf-tuhul-lit-taliben 
 
@@ -7498,7 +8579,23 @@ khallisna minan-nari ya rabb
 
 ya man tabarakas-muh 
 
-ya man taaala jad-duh \ ya mal-la ilaha ghayruh \ ya man jal-la thana-uh \ ya man taqad-dasat as-ma-uh \ ya may-yadumu baqa-uh \ ya manil-a'zamatu baha-uh \ ya manil-kib-ri-ya-u rida-uh \ ya mal-la tuh-sa a-la-uh \ ya mal-la tua'd-du naa-ma-uh 
+ya man taaala jad-duh \ 
+
+ya mal-la ilaha ghayruh \ 
+
+ya man jal-la thana-uh \ 
+
+ya man taqad-dasat as-ma-uh \ 
+
+a may-yadumu baqa-uh \ 
+
+ya manil-a'zamatu baha-uh \ 
+
+ya manil-kib-ri-ya-u rida-uh \ 
+
+ya mal-la tuh-sa a-la-uh \ 
+
+ya mal-la tua'd-du naa-ma-uh 
 
 subhanaka ya la ilaha illa anta 
 
@@ -7536,7 +8633,15 @@ ya dhal-fia'-lir-rashed
 
 ya dhal-bat-shish-shaded 
 
-ya dhal-waa-di wal-wae'ed \ ya man hual-wale-yul-hamed \ ya man huwa f-a'-alul-lima yured \ ya man huwa q-rebun ghayru bae'ed \ ya man huwa ala kul-li shay-in shahed 
+ya dhal-waa-di wal-wae'ed \ 
+
+ya man hual-wale-yul-hamed \ 
+
+ya man huwa f-a'-alul-lima yured \ 
+
+ya man huwa q-rebun ghayru bae'ed \ 
+
+ya man huwa ala kul-li shay-in shahed 
 
 ya man huwa laysa bizal-lamil-lil-a'bed 
 
@@ -7562,9 +8667,35 @@ ya r-ahimash-shaykhil-kaber
 
 ya jabiral-a'zmil-kaser 
 
-ya iis-matal-kha-ifil-mus-tajer \ ya man huwa bi-iibadihi khabayirum baser 
+ya iis-matal-kha-ifil-mus-tajer \ 
 
-ya man huwa ala kul-li shay-in qader \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (80) \ ya dhal-judi wan-nia'm \ ya dhal-fadhli wal-karam \ ya khaliqal-law-hi wal-qalam \ ya bari-adh-dhar-ri wn-nasam \ ya dhal-ba-si wan-niqam \ ya mul-himal-a'rabi wal-a'jam \ ya kashifadhur-ri wal-alam \ ya aalimas-sir-ri wal-himam 
+ya man huwa bi-iibadihi khabayirum baser 
+
+ya man huwa ala kul-li shay-in qader \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(80)
+
+\ ya dhal-judi wan-nia'm \ 
+
+ya dhal-fadhli wal-karam \ 
+
+ya khaliqal-law-hi wal-qalam \ 
+
+ya bari-adh-dhar-ri wn-nasam \ 
+
+ya dhal-ba-si wan-niqam \ 
+
+ya mul-himal-a'rabi wal-a'jam \ 
+
+ya kashifadhur-ri wal-alam \ 
+
+ya aalimas-sir-ri wal-himam 
 
 ya rab-bal-bayti wal-haram 
 
@@ -7586,13 +8717,37 @@ ya qabilu ya kamil
 
 ya fasilu ya wasil 
 
-ya aadilu ya ghalib \ ya talibu ya wahib \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (82) \ ya man an-a'ma bitaw-lih \ ya man ak-rama bijudih \ ya man jada bilut-fih \ ya man taaz-zaza biqud-ratih 
+ya aadilu ya ghalib \ 
+
+ya talibu ya wahib \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(82)
+
+\ ya man an-a'ma bitaw-lih \ 
+
+ya man ak-rama bijudih \ 
+
+ya man jada bilut-fih \ 
+
+ya man taaz-zaza biqud-ratih 
 
 ya man qad-dara bihik-matih 
 
 ya man hakama bitad-berih 
 
-ya man dab-bara bi-iil-mih \ ya man tajawaza bihil-mih \ ya man dana fe u'lu-wih \ ya man ala fe dunu-wih 
+ya man dab-bara bi-iil-mih \ 
+
+ya man tajawaza bihil-mih \ 
+
+ya man dana fe u'lu-wih \ 
+
+ya man ala fe dunu-wih 
 
 subhanaka ya la ilaha illa anta 
 
@@ -7614,15 +8769,41 @@ ya may-yua'dh-dhibu may-yasha-u
 
 ya may-yagh-firu limay-yasha-u 
 
-ya may-yuiiz-zu may-yasha-u \ ya may-yudhil-lu may-yasha-u \ ya may-yusaw-wiru fil-ar-hami ma yasha-u \ ya may-yakh-tas-su birah-matihi may-yasha-u \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (84) \ ya mal-lam yat-takhidh sahibataw-wa-la walada \ ya man jaala likul-li shay-in qad-ra 
+ya may-yuiiz-zu may-yasha-u \ 
+
+ya may-yudhil-lu may-yasha-u \ 
+
+ya may-yusaw-wiru fil-ar-hami ma yasha-u \ 
+
+ya may-yakh-tas-su birah-matihi may-yasha-u \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(84)
+
+\ ya mal-lam yat-takhidh sahibataw-wa-la walada \ 
+
+ya man jaala likul-li shay-in qad-ra 
 
 ya mal-la yush-riku fe huk-mehi ahada 
 
-ya man jaalal-mala-ikata rusulan \ ya man jaala fis-sama-i burujan 
+ya man jaalal-mala-ikata rusulan \ 
 
-ya man jaalal-ar-dha qarara \ ya man khalaqa minal-ma-i bashara \ ya man jaala likul-li shay-in amada 
+ya man jaala fis-sama-i burujan 
 
-ya man ahata bikul-li shay-in iil-ma \ ya man ah-sa kul-la shay-in adada 
+ya man jaalal-ar-dha qarara \ 
+
+ya man khalaqa minal-ma-i bashara \ 
+
+ya man jaala likul-li shay-in amada 
+
+ya man ahata bikul-li shay-in iil-ma \ 
+
+ya man ah-sa kul-la shay-in adada 
 
 subhanaka ya la ilaha illa anta 
 
@@ -7652,21 +8833,63 @@ khallisna minan-nari ya rabb
 
 (86) 
 
-ya khayra maa-rufin u'rifa \ ya af-dhala maa-budin u'bid 
+ya khayra maa-rufin u'rifa \ 
+
+ya af-dhala maa-budin u'bid 
 
 ya ajal-la mash-kurin shukir 
 
-ya aaz-za madhkurin dhukir \ ya aa-la mah-mudin humid 
+ya aaz-za madhkurin dhukir \ 
+
+ya aa-la mah-mudin humid 
 
 ya aq-dama maw-judin tulib 
 
-ya ar-faa maw-sufiw-wusif \ ya ak-bara maq-sudin qusid \ ya ak-rama mas-ulin su-il \ ya ash-rafa mah-bubin u'lim \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (87) \ ya habebal-baken \ ya say-yidal-mutawak-kilen \ ya hadi-yal-mudhil-len \ ya wale-yal-mu-minen \ ya anesadh-dhakiren \ ya mafzaal-mal-hufen 
+ya ar-faa maw-sufiw-wusif \ 
+
+ya ak-bara maq-sudin qusid \ 
+
+ya ak-rama mas-ulin su-il \ 
+
+ya ash-rafa mah-bubin u'lim \
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(87)
+
+\ ya habebal-baken \ 
+
+ya say-yidal-mutawak-kilen \ 
+
+ya hadi-yal-mudhil-len \ 
+
+ya wale-yal-mu-minen \ 
+
+ya anesadh-dhakiren \ 
+
+ya mafzaal-mal-hufen 
 
 ya munji-yas-sadiqen 
 
 ya aq-daral-qadiren 
 
-ya aa-lamal-a'alimen \ ya ilaha al-khal-qi aj-mae'en \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (88) \ ya man ala faqahar 
+ya aa-lamal-a'alimen \ 
+
+ya ilaha al-khal-qi aj-mae'en \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(88)
+
+\ ya man ala faqahar 
 
 ya mam-malaka faqadar 
 
@@ -7680,7 +8903,41 @@ ya mal-la tah-wehi al-fikar
 
 ya mal-la yud-rikuhu basar 
 
-ya mal-la yakh-fa ailayhi athar \ ya raziqa al-bashar \ ya muqad-dira kul-li qadar \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (89) \ allahumma in-ne as-aluka bis-mika \ ya hafizu ya bari \ ya dhari-u ya badhikh \ ya fariju ya fatih \ ya kashifu ya dhamin \ ya a-miru ya nahe \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (90) \ ya mal-la yaa-lamul-ghayba illa huwa 
+ya mal-la yakh-fa ailayhi athar \ 
+
+ya raziqa al-bashar \ 
+
+ya muqad-dira kul-li qadar \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(89) \ 
+
+allahumma in-ne as-aluka bis-mika \ 
+
+ya hafizu ya bari \ 
+
+ya dhari-u ya badhikh \ 
+
+ya fariju ya fatih \ 
+
+ya kashifu ya dhamin \ 
+
+ya a-miru ya nahe \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(90)
+
+\ ya mal-la yaa-lamul-ghayba illa huwa 
 
 ya mal-la yas-rifus-suo-a illa huwa 
 
@@ -7714,13 +8971,41 @@ ya sahibal-ghuraba-i
 
 ya nasiral-aw-li-ya-i 
 
-ya qahiral-aa-da-i \ ya rafia's-sama-i \ ya anesal-as-fi-ya-i \ ya habebal-at-qi-ya-i \ ya kanzal-fuqara-i \ ya ilhal-agh-ni-ya-i \ ya ak-ramal-kurama-i \ subhanaka ya la ilaha illa anta \ al-ghawth al-ghawth \ khallisna minan-nari ya rabb \ \ (92) \ ya kafiyam-min kul-li shay \ ya qa-iman ala kul-li shay 
+ya qahiral-aa-da-i \ 
+
+ya rafia's-sama-i \ 
+
+ya anesal-as-fi-ya-i \ 
+
+ya habebal-at-qi-ya-i \ 
+
+ya kanzal-fuqara-i \ 
+
+ya ilhal-agh-ni-ya-i \ 
+
+ya ak-ramal-kurama-i \ 
+
+subhanaka ya la ilaha illa anta \ 
+
+al-ghawth al-ghawth \ 
+
+khallisna minan-nari ya rabb \ \ 
+
+(92)
+
+\ ya kafiyam-min kul-li shay \ 
+
+ya qa-iman ala kul-li shay 
 
 ya mal-la yush-bihuhu shay 
 
 ya mal-la yazedu fe mul-kihi shay 
 
-ya mal-la yakh-fa ailayhi shay \ ya mal-la yanqusu min khaza-inihi shay \ ya mal-laysa kamith-lihi shay \ ya mal-la yaa-zubu an iil-mihi shay 
+ya mal-la yakh-fa ailayhi shay \ 
+
+ya mal-la yanqusu min khaza-inihi shay \ 
+
+ya mal-la yaa-zubu an iil-mihi shay 
 
 ya man huwa kha-berum bikul-li shay 
 
@@ -7736,7 +9021,9 @@ khallisna minan-nari ya rabb
 
 allahumma in-ne as-aluka bis-mika 
 
-ya muk-rimu ya mut-iim \ ya mun-iimu ya mua'-te 
+ya muk-rimu ya mut-iim \ 
+
+ya mun-iimu ya mua'-te 
 
 ya mugh-ne ya muq-ne 
 
@@ -7762,7 +9049,9 @@ ya ba-ria kul-li shayiw-wa khaliqah
 
 ya qabidha kul-li shayiw-wa basitah 
 
-ya mubdi-a kul-li shayiw-wa muiidah \ ya jamia kul-li shayiw-wa mufar-riqah 
+ya mubdi-a kul-li shayiw-wa muiidah \ 
+
+ya jamia kul-li shayiw-wa mufar-riqah 
 
 ya muqad-dira kul-li shayiw-wa mu-ash-shirah 
 
