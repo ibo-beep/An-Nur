@@ -1,11 +1,8 @@
 <script setup lang="ts">
 import { munajatContent, ziyarat_ameenallahContent } from '#imports'
-import { ref, computed, shallowRef, watch, onMounted } from 'vue'
-import { useRoute } from 'vue-router'
-
+import { ArrowUp } from 'lucide-vue-next'
 
 const route = useRoute()
-const slug = route.params.slug as string
 
 // Mapping der Inhalte
 const allDuas: Record<string, any> = {
@@ -37,64 +34,108 @@ const allDuas: Record<string, any> = {
   'ziyarat_ameenallah': { name: 'Ziyarat Ameenallah', data: ziyarat_ameenallahContent },
 }
 
-// shallowRef verhindert, dass Vue die riesigen Textobjekte unnötig tief beobachtet
-const activeDua = shallowRef(allDuas[slug] || allDuas['ahad'])
+const slug = computed(() => String(route.params.slug))
 
-watch(() => route.params.slug, (newSlug) => {
-  activeDua.value = allDuas[newSlug as string] || allDuas['ahad']
+// Unbekannte Adresse: echte 404-Seite statt eines falschen Duas
+if (!allDuas[slug.value]) {
+  throw createError({ statusCode: 404, statusMessage: 'Dua nicht gefunden', fatal: true })
+}
+watch(slug, (s) => {
+  if (!allDuas[s]) showError({ statusCode: 404, statusMessage: 'Dua nicht gefunden' })
 })
 
-const activeLang = ref<'العربية' | 'English' | 'Deutsch' | 'Transliteration'>('العربية')
-const languages = ['English', 'Deutsch', 'Transliteration', 'العربية'] as const
+const activeDua = computed(() => allDuas[slug.value])
+const entry = computed(() => duaIndex.find(d => d.id === slug.value))
+const title = computed(() => entry.value?.name ?? activeDua.value?.name ?? 'Dua')
+const groupLabel = computed(() => entry.value?.group ?? 'Duas')
 
-// Splittet den Text in ein Array für bessere Performance
-const formattedTextArray = computed(() => {
-  const rawText = activeDua.value.data[activeLang.value] || ''
-  return rawText.split('\n').filter((line: string) => line.trim() !== '')
+useSeoMeta({
+  title: () => `${title.value} – Arabisch, Deutsch & Umschrift`,
+  description: () => `${title.value} auf Arabisch, Deutsch, Englisch und in Umschrift lesen und mitbeten.`,
+  ogTitle: () => `${title.value} | An-Nur`,
+  ogDescription: () => `${title.value} auf Arabisch, Deutsch, Englisch und in Umschrift.`
+})
+
+type Lang = 'العربية' | 'Deutsch' | 'English' | 'Transliteration'
+const languages: { key: Lang; label: string }[] = [
+  { key: 'العربية', label: 'عربي' },
+  { key: 'Deutsch', label: 'Deutsch' },
+  { key: 'English', label: 'English' },
+  { key: 'Transliteration', label: 'Umschrift' }
+]
+const activeLang = ref<Lang>('العربية')
+const isArabic = computed(() => activeLang.value === 'العربية')
+
+// Teilt den Text in Zeilen
+const lines = computed<string[]>(() => {
+  const raw: string = activeDua.value?.data?.[activeLang.value] || ''
+  return raw.split('\n').filter((line: string) => line.trim() !== '')
+})
+
+// Schriftgröße (Stufe 0 = Standard)
+const sizeStep = ref(0)
+const changeSize = (d: number) => { sizeStep.value = Math.max(-2, Math.min(4, sizeStep.value + d)) }
+const textStyle = computed(() => {
+  const base = isArabic.value ? 30 : 19
+  const step = isArabic.value ? 3 : 2
+  return { fontSize: `${base + sizeStep.value * step}px` }
 })
 
 const showScrollButton = ref(false)
+const onScroll = () => { showScrollButton.value = window.scrollY > 300 }
 const scrollToTop = () => window.scrollTo({ top: 0, behavior: 'smooth' })
-
-onMounted(() => {
-  window.addEventListener('scroll', () => {
-    showScrollButton.value = window.scrollY > 300
-  })
-})
+onMounted(() => window.addEventListener('scroll', onScroll, { passive: true }))
+onBeforeUnmount(() => window.removeEventListener('scroll', onScroll))
 </script>
 
 <template>
-  <h1 class="text-green-700 font-bold py-6 font-serif text-4xl text-center">
-    {{ activeDua.name }}
-  </h1>
+  <article class="mx-auto flex max-w-3xl flex-col gap-3 px-4 pt-8 pb-16">
+    <NuxtLink to="/" class="self-start text-sm font-semibold text-link hover:underline">‹ Alle Texte</NuxtLink>
+    <span class="text-xs font-semibold uppercase tracking-wider text-mute">{{ groupLabel }}</span>
+    <span v-if="entry?.ar" class="font-arabic text-[26px] text-gold" lang="ar" dir="rtl">{{ entry.ar }}</span>
+    <h1 class="font-head text-3xl leading-tight md:text-4xl">{{ title }}</h1>
 
-  <div class="max-w-4xl mx-auto p-4 md:p-6 bg-white rounded-2xl shadow-lg border border-gray-100">
-    <div class="flex flex-wrap bg-gray-100 p-1 rounded-xl mb-6">
-      <button 
-        v-for="lang in languages" 
-        :key="lang"
-        @click="activeLang = lang"
-        class="flex-1 min-w-[80px] py-3 text-sm font-semibold font-serif rounded-lg transition-all duration-200"
-        :class="activeLang === lang ? 'bg-white shadow text-green-700 scale-[1.02]' : 'text-gray-500 hover:bg-gray-200/50'"
+    <!-- Werkzeugleiste bleibt beim Scrollen oben -->
+    <div class="sticky top-[60px] md:top-[62px] z-30 mt-3 flex flex-wrap items-center justify-between gap-2 rounded-[10px] border border-line bg-surf p-1.5">
+      <div role="tablist" aria-label="Sprache" class="flex flex-wrap gap-0.5">
+        <button
+          v-for="lang in languages"
+          :key="lang.key"
+          type="button"
+          role="tab"
+          :aria-selected="activeLang === lang.key"
+          class="rounded-md px-3 py-1.5 text-[13px] font-semibold transition-colors"
+          :class="[
+            activeLang === lang.key ? 'bg-gold-soft text-ink' : 'text-mute hover:text-ink',
+            lang.key === 'العربية' ? 'font-arabic text-[15px]' : ''
+          ]"
+          @click="activeLang = lang.key"
+        >
+          {{ lang.label }}
+        </button>
+      </div>
+      <div class="flex gap-1">
+        <button type="button" class="rounded-md border border-line px-2.5 py-1 text-[13px] font-semibold" aria-label="Schrift kleiner" @click="changeSize(-1)">A−</button>
+        <button type="button" class="rounded-md border border-line px-2.5 py-1 text-[13px] font-semibold" aria-label="Schrift größer" @click="changeSize(1)">A+</button>
+      </div>
+    </div>
+
+    <div role="tabpanel" class="mt-2 flex flex-col">
+      <p v-if="lines.length === 0" class="py-10 text-center text-mute">
+        Für diesen Text gibt es diese Sprache noch nicht.
+      </p>
+      <p
+        v-for="(line, index) in lines"
+        :key="activeLang + index"
+        class="dua-line border-b border-line py-4 text-center"
+        :class="isArabic ? 'font-arabic leading-[1.9]' : 'leading-relaxed'"
+        :style="textStyle"
+        :dir="isArabic ? 'rtl' : 'ltr'"
+        :lang="isArabic ? 'ar' : activeLang === 'Deutsch' ? 'de' : 'en'"
       >
-        {{ lang }}
-      </button>
+        {{ line }}
+      </p>
     </div>
-
-    <div class="p-4 md:p-10 border border-gray-100 bg-[#fcfdfc] rounded-3xl min-h-[300px]">
-      <div class="flex flex-col space-y-6">
-  <p 
-    v-for="(paragraph, index) in formattedTextArray" 
-    :key="activeLang + index" 
-    class="dua-paragraph text-center font-serif leading-[2.8rem] text-gray-800 text-3xl"
-    :class="activeLang === 'العربية' ? 'font-arabic' : ''"
-  >
-    {{ paragraph }}
-  </p>
-</div>
-    </div>
-
-  
 
     <Transition
       enter-active-class="transition duration-300 ease-out"
@@ -106,24 +147,21 @@ onMounted(() => {
     >
       <button
         v-show="showScrollButton"
+        type="button"
+        aria-label="Nach oben"
+        class="fixed bottom-6 right-6 z-50 rounded-full bg-accent p-3.5 text-on-accent shadow-lg transition-transform hover:-translate-y-0.5"
         @click="scrollToTop"
-        class="fixed bottom-8 right-8 p-4 bg-green-700 text-white rounded-full shadow-2xl hover:bg-green-800 transition-all z-50"
       >
-        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 10l7-7m0 0l7 7m-7-7v18" />
-        </svg>
+        <ArrowUp class="h-5 w-5" />
       </button>
     </Transition>
-  </div>
+  </article>
 </template>
 
 <style scoped>
-.dua-paragraph {
+.dua-line {
   /* Hilft dem Browser, Performance zu sparen, indem weit entfernte Elemente ignoriert werden */
   content-visibility: auto;
-  contain-intrinsic-size: 50px;
-}
-.font-arabic {
-  direction: rtl;
+  contain-intrinsic-size: 60px;
 }
 </style>
