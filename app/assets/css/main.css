@@ -1,0 +1,69 @@
+/* Schriften lokal ausgeliefert (kein Abruf bei Google, DSGVO-freundlich) */
+@import '@fontsource/inter/400.css';
+@import '@fontsource/inter/500.css';
+@import '@fontsource/inter/600.css';
+@import '@fontsource/marcellus/400.css';
+@import '@fontsource/amiri/400.css';
+@import '@fontsource/amiri/700.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Tag – Lapis & Gold */
+:root {
+  --c-bg: 244 243 238;
+  --c-surf: 255 255 255;
+  --c-line: 221 219 208;
+  --c-ink: 23 32 58;
+  --c-mute: 95 103 128;
+  --c-gold: 168 130 58;
+  --c-gold-soft: 239 230 209;
+  --c-accent: 31 58 120;
+  --c-on-accent: 255 255 255;
+  --c-link: 31 58 120;
+  --c-cur: 235 239 248;
+  --glow: rgba(0, 0, 0, 0);
+  color-scheme: light;
+}
+
+/* Nacht – Nacht & Licht */
+.dark {
+  --c-bg: 13 20 36;
+  --c-surf: 20 29 49;
+  --c-line: 37 49 80;
+  --c-ink: 236 229 211;
+  --c-mute: 151 160 181;
+  --c-gold: 217 174 92;
+  --c-gold-soft: 55 47 33;
+  --c-accent: 217 174 92;
+  --c-on-accent: 26 20 7;
+  --c-link: 227 189 115;
+  --c-cur: 28 34 48;
+  --glow: rgba(217, 174, 92, 0.26);
+  color-scheme: dark;
+}
+
+@layer base {
+  html { @apply bg-bg; }
+  body {
+    @apply bg-bg text-ink font-sans antialiased;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  :focus-visible { outline: 2px solid rgb(var(--c-gold)); outline-offset: 2px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body { transition: none; }
+}
+
+@layer components {
+  /* Rechtstexte (Impressum, Datenschutz) */
+  .legal { @apply max-w-3xl mx-auto px-4 py-12 text-[15px] leading-relaxed text-ink; overflow-wrap: anywhere; }
+  .legal h1 { @apply font-head text-3xl md:text-4xl mb-6; }
+  .legal h2 { @apply font-head text-xl mt-10 mb-3; }
+  .legal h3 { @apply font-semibold mt-6 mb-2; }
+  .legal p { @apply mb-4; }
+  .legal ul { @apply list-disc pl-5 mb-4 space-y-1; }
+  .legal a { @apply text-link underline underline-offset-2; }
+}

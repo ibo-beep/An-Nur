@@ -1,38 +1,71 @@
-<script setup>
-import { BookOpen } from 'lucide-vue-next';
+<script setup lang="ts">
+const todayHijri = computed(() => formatHijri(toHijri(new Date())))
+
+const links = [
+  { to: '/', label: 'Duas' },
+  { to: '/calendar', label: 'Kalender' },
+  { to: '/laylatulqadr', label: 'Laylatul Qadr' }
+]
 </script>
 
-
 <template>
-<nav class="shadow-md bg-[#F8F9F8] p-6 h-20 w-screen">
-      <div class=" flex flex-row items-center justify-between">
-        <NuxtLink to="/" class="text-green-700 flex flex-row items-center text-2xl font-serif font-bold"> <BookOpen/> An-Nur</NuxtLink>
-        <NuxtLink to="/laylatulqadr" class ="font-serif ps-46 text-sm hover:text-green-500">Laylatul Qadr</NuxtLink>
-        <NuxtLink to="/calendar" class="font-serif ps-46 text-xl hover:text-green-500">Calendar</NuxtLink>
-        
-      </div>
-   </nav>
+  <div class="flex min-h-screen flex-col">
+    <header class="sticky top-0 z-40 border-b border-line bg-bg/95 backdrop-blur">
+      <div class="mx-auto flex max-w-6xl items-center justify-between gap-3 px-4 py-3">
+        <NuxtLink to="/" class="flex items-center gap-2.5" aria-label="An-Nur, zur Startseite">
+          <span class="font-arabic text-[26px] leading-none text-gold" lang="ar">النور</span>
+          <span class="font-head text-xl">An-Nur</span>
+        </NuxtLink>
 
-   <main class="mt-20">
+        <div class="flex items-center gap-4 md:gap-6">
+          <nav aria-label="Hauptmenü" class="hidden md:flex items-center gap-5 text-sm">
+            <NuxtLink
+              v-for="l in links"
+              :key="l.to"
+              :to="l.to"
+              class="text-mute transition-colors hover:text-ink"
+              exact-active-class="!text-ink font-semibold"
+            >
+              {{ l.label }}
+            </NuxtLink>
+          </nav>
+          <ClientOnly>
+            <span class="hidden lg:inline border-l border-line pl-5 text-xs text-mute">{{ todayHijri }}</span>
+          </ClientOnly>
+          <LookSwitch />
+        </div>
+      </div>
+
+      <!-- Menü auf dem Handy -->
+      <nav aria-label="Hauptmenü mobil" class="flex md:hidden gap-5 overflow-x-auto px-4 pb-2.5 text-sm">
+        <NuxtLink
+          v-for="l in links"
+          :key="l.to"
+          :to="l.to"
+          class="whitespace-nowrap text-mute"
+          exact-active-class="!text-ink font-semibold"
+        >
+          {{ l.label }}
+        </NuxtLink>
+      </nav>
+    </header>
+
+    <main class="flex-1">
       <slot />
     </main>
 
-    <div>
-          <Footer class=" w-full bg-green-700 text-white py-6">
-            <div class="max-w-5xl mx-auto text-center">
-              <p class="font-serif">© 2026 An-Nur. All rights reserved.</p>
-            </div>
-
-          </Footer>
-          
-          <div class="flex flex-row items-center justify-center mt-4 gap-6">
-            <NuxtLink to="/impressum" class="text-green-700 font-serif">
-              Impressum
-            </NuxtLink>
-            <NuxtLink to="/datenschutz" class="text-green-700 font-serif">
-              Datenschutz
-            </NuxtLink>
-          </div>
+    <footer class="border-t border-line">
+      <div class="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-4 px-4 py-6 text-sm text-mute">
+        <div class="flex items-center gap-3">
+          <span class="font-arabic text-xl text-gold" lang="ar">النور</span>
+          <span>Bittgebete zum Lesen und Mitbeten</span>
+        </div>
+        <nav aria-label="Rechtliches" class="flex gap-5">
+          <NuxtLink to="/impressum" class="hover:text-ink">Impressum</NuxtLink>
+          <NuxtLink to="/datenschutz" class="hover:text-ink">Datenschutz</NuxtLink>
+        </nav>
+        <span>© 2026 An-Nur</span>
       </div>
-
+    </footer>
+  </div>
 </template>
